@@ -1,0 +1,5 @@
+locality,site,date,weather,T1.start.time,T1.water.temp,T1.air.temp,T1.air.humidity,T1.from.waterline.meters,T1.tide.height.meters,T2.start.time,T2.from.waterline.meters,T2.tide.height.meters,T2.water.temp,T2.air.temp,T2.air.humidity,survey.end.time,end.water.temp,end.air.temp,end.air.humidity
+Sidney,Moses Point,22-Jul-24,Sunny,10:45,19.2,23.9,70.3,5.5,0.115,12:56,9.5,0.115,19.6,23.5,66.4,13:22,19.8,24.4,60.9
+Sidney,Chalet Beach,23-Jul-24,Sunny,11:34,20.7,24.3,60.6,5.8,0.139,11:52,10,0.139,20.7,24.3,60.6,12:17,20.7,25.6,47.8
+Sidney,Glass Beach,24-Jul-24,Overcast,12:49,14.7,23.3,54.3,0,0.349,13:24,7.1,0.353,15.2,19.9,35.9,13:51,15.1,29.6,51.4
+Sidney,Seabreeze Road,25-Jul-24,Sunny,13:11,15.4,21.5,55.3,2,0.787,14:09,10,0.715,16.5,22.5,56.9,14:32,16.3,26.7,56.7

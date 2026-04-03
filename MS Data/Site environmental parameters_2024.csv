@@ -1,0 +1,17 @@
+locality,site,transect.number,transect.distance.from.waterline,sst,air,humidity,wind.ave.km,wind.max.km
+Bamfield,Bamfield Inlet,Low tide line,1 m,15.3,20.6,59.2,6,18
+Bamfield,Bamfield Inlet,High tide line,4.5 m,15.7,21.1,62.8,6,18
+Bamfield,Brady's Beach,Low tide line,2 m,14.5,21.8,56.3,3,17
+Bamfield,Brady's Beach,High tide line,7 m,16.3,26.6,45.1,3,17
+Bamfield,Eagle Bay,Low tide line,0 m,18.9,25.8,60.7,5,18
+Bamfield,Eagle Bay,High tide line,8 m,18.2,25.1,64.9,5,18
+Bamfield,Grappler Narrows,Low tide line,0.5 m,15.5,20.8,54.2,3,11
+Bamfield,Grappler Narrows,High tide line,1.5 m,15.6,24.6,48,3,11
+Sidney,Chalet Beach,Low tide line,5.8 m,20.7,24.3,60.6,15,27
+Sidney,Chalet Beach,High tide line,10 m,20.7,25.6,47.8,15,27
+Sidney,Glass Beach,Low tide line,0 m,14.7,23.3,54.3,12,24
+Sidney,Glass Beach,High tide line,7.1 m,15.2,19.9,35.9,12,24
+Sidney,Moses Point,Low tide line,5.5 m,19.2,23.9,70.3,13,35
+Sidney,Moses Point,High tide line,9.5 m,19.6,23.5,66.4,13,35
+Sidney,Seabreeze Road,Low tide line,2 m,15.4,21.5,55.3,13,22
+Sidney,Seabreeze Road,High tide line,10 m,16.5,22.5,56.9,13,22

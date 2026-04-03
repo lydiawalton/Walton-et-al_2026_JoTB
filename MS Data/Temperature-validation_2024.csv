@@ -1,0 +1,37 @@
+locality,site,date,photo.number,microhabitat,aggregated,ind.number,star.ID,IR.temp,thermocouple.temp,temp.diff,notes
+Bamfield,Grappler Narrows,25-Jun-24,1,shaded,aggregated,1,GN_2024_Validation_ind1,17,17.5,0.5,ind1 and 2 touching
+Bamfield,Grappler Narrows,25-Jun-24,2,shaded,aggregated,2,GN_2024_Validation_ind2,20.1,18.8,1.3,ind1 and 2 touching
+Bamfield,Grappler Narrows,25-Jun-24,3,exposed,aggregated,3,GN_2024_Validation_ind3,18.2,17.5,0.7,
+Bamfield,Grappler Narrows,25-Jun-24,4,shaded,aggregated,4,GN_2024_Validation_ind4,18.2,17.9,0.3,ind4 and 5 touching
+Bamfield,Grappler Narrows,25-Jun-24,5,shaded,aggregated,5,GN_2024_Validation_ind5,17.5,17.6,0.1,ind4 and 5 touching
+Bamfield,Eagle Bay,01-Jul-24,1,shaded,solitary,1,EB_2024_Validation_ind1,18.4,19.6,1.2,
+Bamfield,Eagle Bay,01-Jul-24,2,shaded,solitary,2,EB_2024_Validation_ind2,17.2,17.8,0.6,
+Bamfield,Eagle Bay,01-Jul-24,3,shaded,solitary,3,EB_2024_Validation_ind3,17.9,17.7,0.2,
+Bamfield,Eagle Bay,01-Jul-24,4,shaded,aggregated,4,EB_2024_Validation_ind4,18.8,19.5,0.7,ind4 and 5 touching
+Bamfield,Eagle Bay,01-Jul-24,5,shaded,aggregated,5,EB_2024_Validation_ind5,18,18.5,0.5,ind4 and 5 touching
+Bamfield,Brady's Beach,28-Jul-24,1,exposed,aggregated,1,BB_2024_Validation_ind1,18,18.9,0.9,
+Bamfield,Brady's Beach,28-Jul-24,2,exposed,aggregated,2,BB_2024_Validation_ind2,17.6,17.5,0.1,
+Bamfield,Brady's Beach,28-Jul-24,3,exposed,aggregated,3,BB_2024_Validation_ind3,15.7,15.6,0.1,
+Bamfield,Brady's Beach,28-Jul-24,4,exposed,solitary,4,BB_2024_Validation_ind4,20.1,19.6,0.5,
+Bamfield,Brady's Beach,28-Jul-24,5,exposed,solitary,5,BB_2024_Validation_ind5,18.5,19.1,0.6,
+Bamfield,Bamfield Inlet,27-Jul-24,1,exposed,solitary,1,BI_2024_Validation_ind1,15.9,17.1,1.2,
+Bamfield,Bamfield Inlet,27-Jul-24,2,under rock,solitary,2,BI_2024_Validation_ind2,16,17.4,1.4,
+Bamfield,Bamfield Inlet,27-Jul-24,3,partly exposed,solitary,3,BI_2024_Validation_ind3,15.2,16,0.8,
+Bamfield,Bamfield Inlet,27-Jul-24,4,partly exposed,aggregated,4,BI_2024_Validation_ind4,15.1,15.9,0.8,
+Bamfield,Bamfield Inlet,27-Jul-24,5,partly exposed,solitary,5,BI_2024_Validation_ind5,18.7,18.2,0.5,
+Sidney,Moses Point,22-Jul-24,1,shaded,solitary,1,MP_2024_Validation_ind1,22.7,22.5,0.2,
+Sidney,Moses Point,22-Jul-24,2,shaded,solitary,2,MP_2024_Validation_ind2,25,25.2,0.2,
+Sidney,Moses Point,22-Jul-24,3,shaded,solitary,3,MP_2024_Validation_ind3,18,17,1,
+Sidney,Moses Point,22-Jul-24,4,shaded,solitary,4,MP_2024_Validation_ind4,21.8,21,0.8,
+Sidney,Moses Point,22-Jul-24,5,shaded,solitary,5,MP_2024_Validation_ind5,20.1,19.4,0.7,
+Sidney,Chalet Beach,23-Jul-24,1,shaded,solitary,1,CB_2024_Validation_ind1,19.3,19.6,0.3,
+Sidney,Chalet Beach,23-Jul-24,2,shaded,solitary,2,CB_2024_Validation_ind2,19.6,19.1,0.5,
+Sidney,Chalet Beach,23-Jul-24,3,partly exposed,solitary,3,CB_2024_Validation_ind3,19.9,19.5,0.4,
+Sidney,Chalet Beach,23-Jul-24,4,shaded,aggregated,4,CB_2024_Validation_ind4,17.5,16.8,0.7,
+Sidney,Chalet Beach,23-Jul-24,5,shaded,aggregated,5,CB_2024_Validation_ind5,15.6,16.8,1.2,
+Sidney,Glass Beach,24-Jul-24,NA,NA,NA,NA,NA,NA,NA,NA,No accessible adults at Glass beach for temp validation
+Sidney,Seabreeze Road,25-Jul-24,1,under rock,aggregated,1,SR_2024_Validation_ind1,18.5,18.8,0.3,
+Sidney,Seabreeze Road,25-Jul-24,2,under rock,aggregated,2,SR_2024_Validation_ind2,18,18,0,ind1 and ind2 are touching
+Sidney,Seabreeze Road,25-Jul-24,3,under rock,aggregated,3,SR_2024_Validation_ind3,17.8,19.2,1.4,ind2 and ind3 are touching
+Sidney,Seabreeze Road,25-Jul-24,4,shaded,aggregated,4,SR_2024_Validation_ind4,19.1,18.1,1,
+Sidney,Seabreeze Road,25-Jul-24,5,shaded,aggregated,5,SR_2024_Validation_ind5,19,18.3,0.7,

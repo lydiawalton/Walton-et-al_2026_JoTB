@@ -1,0 +1,5 @@
+locality,site,date,weather,T1.start.time,T1.water.temp,T1.air.temp,T1.air.humidity,T1.from.waterline.meters,T1.tide.height.meters,T2.start.time,T2.from.waterline.meters,T2.tide.height.meters,T2.water.temp,T2.air.temp,T2.air.humidity,survey.end.time,end.water.temp,end.air.temp,end.air.humidity
+Bamfield,Grappler Narrows,25-Jun-24,partly cloudy,9:37,15.5,20.8,54.2,0.5,0.205,11:41,1.5,0.205,15.6,24.6,48,12:09,15.4,24.8,49
+Bamfield,Bamfield Inlet,27-Jun-24,overcast,11:14,15.3,20.6,59.2,1,0.483,13:00,4,0.853,15.7,21.1,62.8,13:45,16.2,23.5,52.6
+Bamfield,Brady's Beach,28-Jun-24,T1 overcast; T2 partly cloudy,11:32,14.5,21.8,56.3,2,0.762,13:40,6.5,1.032,16.3,26.6,45.1,14:23,15.7,21.5,56
+Bamfield,Eagle Bay,01-Jul-24,Partly cloudy,14:24,18.9,25.8,60.7,0,0.797,15:16,8,0.651,18.2,25.1,50.5,16:00,18.5,21.6,64.9

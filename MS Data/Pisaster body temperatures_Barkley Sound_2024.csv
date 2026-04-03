@@ -1,0 +1,615 @@
+locality,site,date,transect.number,photo.number,n.Pisaster,microhabitat,aggregated,ind.number,star.ID,arm.length.cm,disc.temp,arm.1.temp,arm.2.temp,arm.3.temp,arm.4.temp,arm.5.temp,arm.ave,star.ave,substrate.max,substrate.min,substrate.ave,notes
+Bamfield,Grappler Narrows,25-Jun-24,1,1,3,exposed,aggregated,1,GN_2024_Photo1_ind1,9.1,17.2,14.6,15.3,15.4,15,NA,15.08,15.5,14,13.7,13.8,"Animal is partially under a rock, spot measurements placed on exposed parts"
+Bamfield,Grappler Narrows,25-Jun-24,1,1,3,exposed,aggregated,2,GN_2024_Photo1_ind2,9.135,15.4,14.1,14.2,14.2,NA,NA,14.17,14.48,16,15.6,15.7,"Animal is partially under a rock, spot measurements placed on exposed parts"
+Bamfield,Grappler Narrows,25-Jun-24,1,1,3,exposed,aggregated,3,GN_2024_Photo1_ind3,6.979,NA,15.2,14.5,14.7,14.7,NA,14.78,14.78,16.3,15.8,16,"Animal is partially under a rock, spot measurements placed on exposed parts"
+Bamfield,Grappler Narrows,25-Jun-24,1,2,2,exposed,aggregated,1,GN_2024_Photo2_ind1,8.798,17.6,15.4,16.3,16.3,15.9,NA,15.98,16.3,17.1,16.2,16.8,"Animal is partially in the water, spot measurements placed on dry exposed parts"
+Bamfield,Grappler Narrows,25-Jun-24,1,2,2,exposed,aggregated,2,GN_2024_Photo2_ind2,12.511,14.8,14.6,15,15.6,NA,NA,15.07,15,15.1,14.7,15,"Animal is partially in the water, spot measurements placed on dry exposed parts"
+Bamfield,Grappler Narrows,25-Jun-24,1,3,2,under rock,solitary,1,GN_2024_Photo3_ind1,4.287,15,15.2,15.3,14.6,14.8,14.9,14.96,14.97,15.9,15.7,15.8,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,3,2,under rock,solitary,2,GN_2024_Photo3_ind2,2.402,15.9,16.1,15.9,15.8,15.4,15.4,15.72,15.75,16,15.7,15.9,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,4,1,exposed,solitary,1,GN_2024_Photo4_ind1,10.373,12.2,12.4,12,11.8,12.1,12.1,12.08,12.1,12.4,12,12.2,Animal is exposed with algae surrounding
+Bamfield,Grappler Narrows,25-Jun-24,1,5,1,exposed,solitary,1,GN_2024_Photo5_ind1,14.025,16.5,17,17.3,17.5,NA,NA,17.27,17.08,17.1,16.7,16.9,Animal exposed and half in a crevice; arms are cut off in photo - size is estimate
+Bamfield,Grappler Narrows,25-Jun-24,1,6,2,exposed,aggregated,1,GN_2024_Photo6_ind1,11.677,14.6,15.1,15.2,14.9,NA,NA,15.07,14.95,14.7,14.3,14.5,Animal mostly exposed with 2 arms inside of a shaded crevice
+Bamfield,Grappler Narrows,25-Jun-24,1,6,2,exposed,aggregated,2,GN_2024_Photo6_ind2,9.107,14.8,15.4,16.1,NA,NA,NA,15.75,15.43,17.4,15.7,16.7,Animal mostly exposed with half of body underneath star #1
+Bamfield,Grappler Narrows,25-Jun-24,1,7,3,under rock,solitary,1,GN_2024_Photo7_ind1,3.335,16,17.2,15.9,15.6,15.4,NA,16.03,16.02,18.1,17.8,17.9,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,7,3,under rock,solitary,2,GN_2024_Photo7_ind2,3.483,14.7,15,15.4,14.7,14.7,14.7,14.9,14.87,15.5,15.4,15.4,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,7,3,under rock,solitary,3,GN_2024_Photo7_ind3,2.942,15.1,16.1,15.7,15.1,15.2,15.6,15.54,15.47,16.8,16.6,16.7,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,8,4,partly exposed,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Did not use photo as sea stars were not shaded (sun reflecting in image)
+Bamfield,Grappler Narrows,25-Jun-24,1,9,5,under rock,aggregated,1,GN_2024_Photo9_ind1,3.774,15.7,16,16.4,16,15.2,NA,15.9,15.86,17,16.5,16.7,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,9,5,under rock,aggregated,2,GN_2024_Photo9_ind2,4.225,15.7,16.6,15.6,NA,NA,NA,16.1,15.97,17.8,16.9,17.3,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,9,5,under rock,aggregated,3,GN_2024_Photo9_ind3,3.079,15.2,15.3,15.4,NA,NA,NA,15.35,15.3,15.1,14.8,15,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,9,5,under rock,aggregated,4,GN_2024_Photo9_ind4,1.669,17,16.4,17.2,17.6,16.6,NA,16.95,16.96,18.9,18,18.5,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,10,2,under rock,solitary,1,GN_2024_Photo10_ind1,4.561,18.5,17.3,17.7,18.4,18.4,NA,17.95,18.06,18.7,18.1,18.4,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,10,2,under rock,solitary,2,GN_2024_Photo10_ind2,3.043,18.6,19.9,19.7,18.7,NA,NA,19.43,19.23,19.4,18.6,19.1,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,11,2,shaded,aggregated,1,GN_2024_Photo11_ind1,12.079,13.5,13.2,13.3,13.7,NA,NA,13.4,13.43,13.8,13.5,13.7,"Animal is inside a crevice; can only see one in the photo, second individual may be underneath?"
+Bamfield,Grappler Narrows,25-Jun-24,1,12,1,exposed,solitary,1,GN_2024_Photo12_ind1,7.486,22.7,20.8,22.6,20.7,NA,NA,21.37,21.7,22.4,21.5,21.9,Animal exposed but in the shade based on the sun position; half under a rock
+Bamfield,Grappler Narrows,25-Jun-24,1,13,1,exposed,solitary,1,GN_2024_Photo13_ind1,7.605,18.9,17.7,17.5,16.8,16.5,17.6,17.22,17.5,16.7,16.3,16.5,Animal fully exposed; tips of three arms under a rock
+Bamfield,Grappler Narrows,25-Jun-24,1,14,5,exposed,aggregated,1,GN_2024_Photo14_ind1,12.716,19.1,17.5,17.7,18.6,19,20.6,18.68,18.75,19.5,19.1,19.3,Animals in between two rocks and mostly exposed
+Bamfield,Grappler Narrows,25-Jun-24,1,14,5,exposed,aggregated,2,GN_2024_Photo14_ind2,8.675,18.9,19.4,17.7,18.4,NA,NA,18.5,18.6,21.7,20.2,21.2,Animals in between two rocks and mostly exposed
+Bamfield,Grappler Narrows,25-Jun-24,1,14,5,exposed,aggregated,3,GN_2024_Photo14_ind3,9.224,21.8,22.3,20.7,20.2,22.2,NA,21.35,21.44,20,19.6,19.8,Animals in between two rocks and mostly exposed
+Bamfield,Grappler Narrows,25-Jun-24,1,14,5,exposed,aggregated,4,GN_2024_Photo14_ind4,7.962,22.2,24.8,23.7,20.6,NA,NA,23.03,22.83,27.2,22.7,24.7,Animals in between two rocks and mostly exposed
+Bamfield,Grappler Narrows,25-Jun-24,1,15,1,exposed,solitary,1,GN_2024_Photo15_ind1,11.495,17.8,15.8,17.3,16.8,17.2,16.6,16.74,16.92,15.5,15.3,15.3,Animal is partially underneath a rock
+Bamfield,Grappler Narrows,25-Jun-24,1,16,4,under rock,solitary,1,GN_2024_Photo16_ind1,2.644,14.4,15.2,14.7,14.2,14.5,NA,14.65,14.6,15.7,15.4,15.5,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,16,4,under rock,solitary,2,GN_2024_Photo16_ind2,2.247,14.9,14.7,14.8,14.7,NA,NA,14.73,14.78,15.9,15.6,15.7,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,16,4,under rock,solitary,3,GN_2024_Photo16_ind3,1.587,15.2,15.2,15.2,15.2,15.3,15.2,15.22,15.22,16.3,16,16.1,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,16,4,under rock,solitary,4,GN_2024_Photo16_ind4,1.952,15.1,15.1,15.1,15.6,15.1,NA,15.23,15.2,15.9,15.6,15.8,Animal is underneath a rock that was flipped over for the photo
+Bamfield,Grappler Narrows,25-Jun-24,1,17,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ruler not visible - did not annotate photo
+Bamfield,Grappler Narrows,25-Jun-24,1,18,1,shaded,solitary,1,GN_2024_Photo18_ind1,9.575,20.8,20.7,19.7,18.1,NA,NA,19.5,19.83,19.3,19.1,19.3,"Animal in crevice; part of body exposed, most arms underneath rocks"
+Bamfield,Grappler Narrows,25-Jun-24,1,19,2,shaded,solitary,1,GN_2024_Photo19_ind1,8.197,19.4,19.4,19.3,19.8,NA,NA,19.5,19.48,19.1,18.7,18.9,Animal partially under a rock
+Bamfield,Grappler Narrows,25-Jun-24,1,20,1,shaded,solitary,1,GN_2024_Photo20_ind1,7.126,14.8,14.7,15.2,14.7,NA,NA,14.87,14.85,14.5,14,14.3,Animal in crevice; partly exposed
+Bamfield,Grappler Narrows,25-Jun-24,1,21,1,exposed,solitary,1,GN_2024_Photo21_ind1,10.658,21.9,19.8,20.3,21.3,22.3,NA,20.93,21.12,19.8,19.5,19.7,One arm underneath seaweed (did not measure)
+Bamfield,Grappler Narrows,25-Jun-24,1,22,1,exposed,solitary,1,GN_2024_Photo22_ind1,9.017,22.8,21.7,20.2,22.9,22.7,NA,21.88,22.06,21.9,21,21.2,Parts of arms underneath seaweed
+Bamfield,Grappler Narrows,25-Jun-24,1,23,2,shaded,aggregated,1,GN_2024_Photo23_ind1,10.652,21.9,22.8,20.4,20.7,21.7,NA,21.4,21.5,20.1,18,19.4,Second sea star underneath first - did not measure
+Bamfield,Grappler Narrows,25-Jun-24,1,24,1,exposed,solitary,1,GN_2024_Photo24_ind1,16.282,23.1,23.3,20.9,17.9,22.2,22,21.26,21.57,22.7,22.4,22.6,one arm tucked away
+Bamfield,Grappler Narrows,25-Jun-24,2,25,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see central disc - animal tucked away in crevice
+Bamfield,Grappler Narrows,25-Jun-24,2,26,1,shaded,solitary,1,GN_2024_Photo26_ind1,6.584,17.6,18,17.4,16.7,NA,NA,17.37,17.43,16.8,16.3,16.5,Animal underneath a rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,27,1,shaded,solitary,1,GN_2024_Photo27_ind1,13.41,19.8,19.8,18.4,18,17.6,NA,18.45,18.72,19.3,18.8,19,Animal underneath a rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,28,1,exposed,solitary,1,GN_2024_Photo28_ind1,8.955,19.5,21.3,19.8,19.7,NA,NA,20.27,20.08,20,19.1,19.5,Animal underneath a rock shelf and a bit of algae
+Bamfield,Grappler Narrows,25-Jun-24,2,29,3,shaded,aggregated,1,GN_2024_Photo29_ind1,7.58,19.1,19.9,20.9,19.3,NA,NA,20.03,19.8,20,19,19.7,3rd animal (orange) not measured as central disc was not visible
+Bamfield,Grappler Narrows,25-Jun-24,2,29,3,shaded,aggregated,2,GN_2024_Photo29_ind2,5.145,18.5,18.7,18.7,NA,NA,NA,18.7,18.63,19.7,18.2,18.8,animals 1 and 2 under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,30,1,shaded,solitary,1,GN_2024_Photo30_ind1,7.049,20.2,20.1,19.3,19.3,NA,NA,19.57,19.73,18.6,18,18.2,animals under a rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,31,4,shaded,aggregated,1,GN_2024_Photo31_ind1,11.373,17,15.8,17.1,17,NA,NA,16.63,16.73,16.3,16.1,16.2,4th animal not visible enough for measurement
+Bamfield,Grappler Narrows,25-Jun-24,2,31,4,shaded,aggregated,2,GN_2024_Photo31_ind2,11.195,18,16.4,17.7,NA,NA,NA,17.05,17.37,16.3,16.1,16.2,all animals under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,31,4,shaded,aggregated,3,GN_2024_Photo31_ind3,12.566,18.5,18.2,18.7,19.1,19,16.8,18.36,18.38,18.1,17.9,17.9,all animals under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,32,4,shaded,aggregated,1,GN_2024_Photo32_ind1,7.164,19.2,18.3,18.7,17.8,NA,NA,18.27,18.5,18.6,18,18.2,all animals under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,32,4,shaded,aggregated,2,GN_2024_Photo32_ind2,4.106,19.4,18.6,18.5,NA,NA,NA,18.55,18.83,18.5,18,18.1,all animals under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,32,4,shaded,aggregated,3,GN_2024_Photo32_ind3,6.963,18.8,18.5,18.2,NA,NA,NA,18.35,18.5,17.7,17.4,17.5,all animals under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,32,4,shaded,aggregated,4,GN_2024_Photo32_ind4,9.598,18.8,19,17.5,NA,NA,NA,18.25,18.43,17.7,16.1,17.3,all animals under rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,33,1,shaded,solitary,1,GN_2024_Photo33_ind1,11.862,18.5,18.3,18.6,NA,NA,NA,18.45,18.47,17.6,17.3,17.4,Animal underneath a rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,34,1,shaded,solitary,1,GN_2024_Photo34_ind1,6.679,17.3,17,17.5,17.7,NA,NA,17.4,17.38,18.2,17.8,18,Animal underneath a rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,35,1,shaded,solitary,1,GN_2024_Photo35_ind1,11.798,22.1,21,20.9,20.2,NA,NA,20.7,21.05,19.7,19.4,19.6,Animal underneath a rock shelf
+Bamfield,Grappler Narrows,25-Jun-24,2,36,2,tidepool,aggregated,1,GN_2024_Photo36_ind1,12.714,16.8,17.3,17.1,NA,NA,NA,17.2,17.07,17.6,17.1,17.3,"Both animals touching water with part of body - measurements only placed on ""dry surfaces"""
+Bamfield,Grappler Narrows,25-Jun-24,2,36,2,tidepool,aggregated,2,GN_2024_Photo36_ind2,9.473,17.7,17.1,17.8,17.9,NA,NA,17.6,17.63,18.6,17.9,18.1,"Both animals touching water with part of body - measurements only placed on ""dry surfaces"""
+Bamfield,Grappler Narrows,25-Jun-24,2,37,2,exposed,aggregated,1,GN_2024_Photo37_ind1,8.535,18.6,17.7,17.2,17.2,NA,NA,17.37,17.68,17.1,16.6,16.9,Animals mostly exposed to sun
+Bamfield,Grappler Narrows,25-Jun-24,2,37,2,exposed,aggregated,2,GN_2024_Photo37_ind2,6.168,19.2,17.4,19.7,18.6,NA,NA,18.57,18.73,19.7,19,19.5,Animals mostly exposed to sun
+Bamfield,Grappler Narrows,25-Jun-24,2,38,9,partly exposed,aggregated,1,GN_2024_Photo38_ind1,6.152,19.2,19.4,19.2,19.4,NA,NA,19.33,19.3,20.3,19.9,20.1,"Animals attached to the side of a rock, some more shaded than others"
+Bamfield,Grappler Narrows,25-Jun-24,2,38,9,partly exposed,aggregated,2,GN_2024_Photo38_ind2,6.599,18.4,19.2,18.6,18.3,NA,NA,18.7,18.63,20.1,19.3,19.6,"Animals attached to the side of a rock, some more shaded than others"
+Bamfield,Grappler Narrows,25-Jun-24,2,38,9,partly exposed,aggregated,3,GN_2024_Photo38_ind3,14.411,18.2,16.8,16.9,19.5,19.4,NA,18.15,18.16,19.7,19.1,19.5,"Animals attached to the side of a rock, some more shaded than others"
+Bamfield,Grappler Narrows,25-Jun-24,2,38,9,partly exposed,aggregated,4,GN_2024_Photo38_ind4,5.446,16.8,17,17.5,NA,NA,NA,17.25,17.1,19.2,18.1,18.8,"Animals attached to the side of a rock, some more shaded than others"
+Bamfield,Grappler Narrows,25-Jun-24,2,38,9,partly exposed,aggregated,5,GN_2024_Photo38_ind5,11.269,17.2,17.6,16.9,17.4,17.1,NA,17.25,17.24,17.2,17.1,17.2,"Animals attached to the side of a rock, some more shaded than others"
+Bamfield,Grappler Narrows,25-Jun-24,2,38,9,partly exposed,aggregated,6,GN_2024_Photo38_ind6,6.602,17.5,17.3,17.3,16.8,NA,NA,17.13,17.23,17.8,17.3,17.5,"Animals attached to the side of a rock, some more shaded than others"
+Bamfield,Grappler Narrows,25-Jun-24,2,39,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,image very blurry and unusable
+Bamfield,Grappler Narrows,25-Jun-24,2,40,1,exposed,solitary,1,GN_2024_Photo40_ind1,12.888,22.2,22.7,21.3,21.7,22.6,NA,22.08,22.1,22.8,22.1,22.5,Fully exposed with a rope across the middle of the body and block one arm
+Bamfield,Grappler Narrows,25-Jun-24,2,41,2,shaded,aggregated,1,GN_2024_Photo41_ind1,3.732,20,20.7,20.4,20.2,NA,NA,20.43,20.33,22.3,22,22.1,Animals under rock - can only see one in photo
+Bamfield,Grappler Narrows,25-Jun-24,2,42,2,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animals partially covered in kelp and deep in crevice - too difficult to see
+Bamfield,Grappler Narrows,25-Jun-24,2,43,2,under rock,aggregated,1,GN_2024_Photo43_ind1,4.374,21.9,22.5,22.2,21.9,21.7,NA,22.08,22.04,23.7,22.9,23.4,Animals all under rock and all look like juveniles
+Bamfield,Grappler Narrows,25-Jun-24,2,43,2,under rock,aggregated,2,GN_2024_Photo43_ind2,2.177,21.8,22.4,22.1,22.6,22.3,NA,22.35,22.24,23.8,23.2,23.5,Animals all under rock and all look like juveniles
+Bamfield,Grappler Narrows,25-Jun-24,2,43,2,under rock,aggregated,3,GN_2024_Photo43_ind3,2.784,NA,21.7,22,22.2,22.5,NA,22.1,22.1,22.9,22.7,22.8,Animals all under rock and all look like juveniles; central disc of ind 3 covered by ind 1
+Bamfield,Grappler Narrows,25-Jun-24,2,44,2,under rock,aggregated,1,GN_2024_Photo44_ind1,4.927,21.6,21.3,20.5,21,NA,NA,20.93,21.1,22.5,22,22.1,Animals under rock and all look like juveniles
+Bamfield,Grappler Narrows,25-Jun-24,2,44,2,under rock,aggregated,2,GN_2024_Photo44_ind2,4.541,20.5,20.4,19.9,NA,NA,NA,20.15,20.27,21.2,20.6,20.9,Animals under rock and all look like juveniles
+Bamfield,Grappler Narrows,25-Jun-24,2,45,2,shaded,aggregated,1,GN_2024_Photo45_ind1,4.546,20.3,20.5,19.8,19.8,20.3,20.3,20.14,20.17,23,21.8,22.3,Animals look to be on the side of a rock
+Bamfield,Grappler Narrows,25-Jun-24,2,45,2,shaded,aggregated,2,GN_2024_Photo45_ind2,2.19,19.8,20.8,19.8,20,NA,NA,20.2,20.1,20.6,20.3,20.5,Animals look to be on the side of a rock
+Bamfield,Grappler Narrows,25-Jun-24,2,46,8,under rock,aggregated,1,GN_2024_Photo46_ind1,4.007,19.9,19.9,19.3,19.4,20.1,19.9,19.72,19.75,22.3,20.9,21.5,Many animals underneath a rock; chose the 4 clearest stars to measure
+Bamfield,Grappler Narrows,25-Jun-24,2,46,8,under rock,aggregated,2,GN_2024_Photo46_ind2,3.275,18.9,20,19.6,19.8,19.6,NA,19.75,19.58,21.4,20.1,21.1,Many animals underneath a rock; chose the 4 clearest stars to measure
+Bamfield,Grappler Narrows,25-Jun-24,2,46,8,under rock,aggregated,3,GN_2024_Photo46_ind3,3.352,19.7,19.9,20.1,19.9,19.9,NA,19.95,19.9,22.5,212.3,21.9,Many animals underneath a rock; chose the 4 clearest stars to measure
+Bamfield,Grappler Narrows,25-Jun-24,2,46,8,under rock,aggregated,4,GN_2024_Photo46_ind4,3.048,19.9,20.1,20.3,19.8,NA,NA,20.07,20.03,21,19.6,20.5,Many animals underneath a rock; chose the 4 clearest stars to measure
+Bamfield,Grappler Narrows,25-Jun-24,2,47,2,shaded,aggregated,1,GN_2024_Photo47_ind1,3.167,19.9,19.1,19.2,19.3,19,19,19.12,19.25,19.8,19.4,19.6,Tips of arms are in tidepool
+Bamfield,Grappler Narrows,25-Jun-24,2,47,2,shaded,aggregated,2,GN_2024_Photo47_ind2,4.571,19.2,19.7,19,19.2,18.7,19.3,19.18,19.18,19.3,18.8,19.1,Tips of arms are in tidepool
+Bamfield,Grappler Narrows,25-Jun-24,2,48,2,under rock,aggregated,1,GN_2024_Photo48_ind1,5.769,18.5,19,19,18.7,18.8,18,18.7,18.67,22.2,20.8,21.8,Animals underneath rock
+Bamfield,Grappler Narrows,25-Jun-24,2,48,2,under rock,aggregated,2,GN_2024_Photo48_ind2,7.032,18.9,18.6,19,18.6,NA,NA,18.73,18.78,19.9,19.5,19.6,Animals underneath rock
+Bamfield,Grappler Narrows,25-Jun-24,2,49,1,under rock,solitary,1,GN_2024_Photo49_ind1,1.994,20.8,21,20.5,20.3,21.2,NA,20.75,20.76,24.1,23.3,23.6,Animal underneath rock
+Bamfield,Grappler Narrows,25-Jun-24,2,50,1,shaded,solitary,1,GN_2024_Photo50_ind1,1.893,18.5,18.8,18.2,18.9,NA,NA,18.63,18.6,20.3,19.6,20,Animal only has 3 arms; underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,1,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot actually see animal in the hole
+Bamfield,Eagle Bay,01-Jul-24,1,2,1,shaded,aggregated,1,EB_2024_Photo2_ind1,5.464,18.6,18.6,20.5,19.6,19.9,NA,19.65,19.44,20.5,20.1,20.3,Two individuals in a hole (in the rock wall); only one visible enough to annotate
+Bamfield,Eagle Bay,01-Jul-24,1,3,1,partly exposed,solitary,1,EB_2024_Photo3_ind1,5.115,20.8,19.8,19.4,21.5,20.5,NA,20.3,20.4,21.5,20.7,21.2,Animal in between two rocks
+Bamfield,Eagle Bay,01-Jul-24,1,4,4,partly exposed,aggregated,1,EB_2024_Photo4_ind1,7.181,21.6,22.2,24,24.5,NA,NA,23.57,23.08,20.7,20.1,20.3,Two of four animals were shaded properly and annotated
+Bamfield,Eagle Bay,01-Jul-24,1,4,4,partly exposed,aggregated,2,EB_2024_Photo4_ind2,8.317,21.5,22.3,20.7,22.6,20.7,NA,21.58,21.56,21.7,20.1,21,Two of four animals were shaded properly and annotated
+Bamfield,Eagle Bay,01-Jul-24,1,5,3,exposed,aggregated,1,EB_2024_Photo5_ind1,7.45,22.7,23.1,21.7,22.6,NA,NA,22.47,22.53,20.9,20.7,20.8,two animals aggregated in right of photo; third in bottom left corner
+Bamfield,Eagle Bay,01-Jul-24,1,5,3,exposed,aggregated,2,EB_2024_Photo5_ind2,7.965,21.5,21,21,NA,NA,NA,21,21.17,20.7,20,20.4,two animals aggregated in right of photo; third in bottom left corner
+Bamfield,Eagle Bay,01-Jul-24,1,5,3,exposed,aggregated,3,EB_2024_Photo5_ind3,8.616,21.9,21.7,22,NA,NA,NA,21.85,21.87,23.3,22,22.9,two animals aggregated in right of photo; third in bottom left corner
+Bamfield,Eagle Bay,01-Jul-24,1,6,1,exposed,solitary,1,EB_2024_Photo6_ind1,8.473,24,24,23.7,24.5,23.7,NA,23.98,23.98,24,23.1,23.6,Animal half tucked into rocks
+Bamfield,Eagle Bay,01-Jul-24,1,7,1,exposed,solitary,1,EB_2024_Photo7_ind1,5.193,20.3,20.2,20.4,20.2,20.6,20.6,20.4,20.38,21,20.7,20.8,Animal exposed on top of rock
+Bamfield,Eagle Bay,01-Jul-24,1,8,1,under rock,solitary,1,EB_2024_Photo8_ind1,3.307,19.9,19.7,20.4,20.7,20,20.4,20.24,20.18,22,20.9,21.3,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,9,1,under rock,solitary,1,EB_2024_Photo9_ind1,3.223,20.4,20.2,20.3,20.2,NA,NA,20.23,20.28,21,20.6,20.8,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,10,1,under rock,solitary,1,EB_2024_Photo10_ind1,3.866,20.9,20.7,20.7,20.7,20.6,21,20.74,20.77,21.3,21,21.1,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,11,1,under rock,solitary,1,EB_2024_Photo11_ind1,2.927,20,20,19.8,20.2,20.6,20.9,20.3,20.25,24.8,21.7,23.7,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,12,1,under rock,solitary,1,EB_2024_Photo12_ind1,4.342,20.3,20.9,21,21,20.6,20,20.7,20.63,22.5,21.8,22.2,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,13,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Data entry error? Photo does not seem to exist
+Bamfield,Eagle Bay,01-Jul-24,1,14,3,shaded,aggregated,1,EB_2024_Photo14_ind1,5.042,19.1,19.2,19.8,NA,NA,NA,19.5,19.37,18.9,18.6,18.8,3 individuals - one is upside down (did not annotate)
+Bamfield,Eagle Bay,01-Jul-24,1,14,3,shaded,aggregated,2,EB_2024_Photo14_ind2,2.934,20.9,21.4,22.6,23.1,22.2,NA,22.33,22.04,24.3,23.8,24.1,3 individuals - one is upside down (did not annotate)
+Bamfield,Eagle Bay,01-Jul-24,1,15,1,under rock,solitary,1,EB_2024_Photo15_ind1,3.992,20.4,21,21.2,20.7,21.3,20.8,21,20.9,22.5,21.9,22.2,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,16,1,under rock,solitary,1,EB_2024_Photo16_ind1,3.644,18.8,19.2,19,19.2,19.2,19.2,19.16,19.1,19.3,18.9,19.1,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,17,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see animal at all
+Bamfield,Eagle Bay,01-Jul-24,1,18,1,under rock,solitary,1,EB_2024_Photo18_ind1,5.274,18.6,18.1,18.6,18.9,18.6,18.3,18.5,18.52,19.1,18.7,18.9,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,19,1,under rock,solitary,1,EB_2024_Photo19_ind1,3.199,18.3,18.1,18.7,18.4,18.6,18.8,18.52,18.48,19.3,18.9,19.1,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,20,1,under rock,solitary,1,EB_2024_Photo20_ind1,3.998,19.3,19.8,20.2,19.9,19.7,19.3,19.78,19.7,21.6,21.2,21.4,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,21,1,under rock,solitary,1,EB_2024_Photo21_ind1,3.77,18.3,19.1,18.5,18.4,19,19.2,18.84,18.75,19.1,18.7,18.9,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,22,1,under rock,solitary,1,EB_2024_Photo22_ind1,4.4,18.1,18.3,18.2,18.8,18.8,18.7,18.56,18.48,19.7,19,19.4,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,23,1,exposed,solitary,1,EB_2024_Photo23_ind1,9.264,19.1,20,20.8,19.6,17.8,NA,19.55,19.46,19.6,19.2,19.3,Animal on top of rocks
+Bamfield,Eagle Bay,01-Jul-24,1,24,1,under rock,solitary,1,EB_2024_Photo24_ind1,6.103,17.1,17.1,17.2,17.2,17,NA,17.13,17.12,17.2,17,17.1,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,25,1,shaded,solitary,1,EB_2024_Photo25_ind1,7.359,18.3,17.8,18.1,17.6,17.3,NA,17.7,17.82,17.9,17.4,17.7,Animal tucked in between a few rocks
+Bamfield,Eagle Bay,01-Jul-24,1,26,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animal barely visible; cannot see central disc
+Bamfield,Eagle Bay,01-Jul-24,1,27,1,partly exposed,solitary,1,EB_2024_Photo27_ind1,8.602,18.7,19.3,18.9,18.6,NA,NA,18.93,18.88,19.9,19.1,19.5,Animal underneath rock shelf
+Bamfield,Eagle Bay,01-Jul-24,1,28,1,shaded,solitary,1,EB_2024_Photo28_ind1,7.28,17.4,17.8,17.4,16.8,17,NA,17.25,17.28,16.6,16.2,16.4,Animal underneath rock shelf
+Bamfield,Eagle Bay,01-Jul-24,1,29,2,shaded,aggregated,1,EB_2024_Photo29_ind1,6.087,18.5,18.5,19.4,19,18.7,19.4,19,18.92,21.2,21,21.1,Animal underneath rock shelf
+Bamfield,Eagle Bay,01-Jul-24,1,29,2,shaded,aggregated,2,EB_2024_Photo29_ind2,6.963,18.5,18.4,19,18.6,17.7,17.9,18.32,18.35,22.5,21.9,22.2,Animal underneath rock shelf
+Bamfield,Eagle Bay,01-Jul-24,1,30,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animal not shaded properly (too much reflectance); can't see central disc very well
+Bamfield,Eagle Bay,01-Jul-24,1,31,1,exposed,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see form of animal very well
+Bamfield,Eagle Bay,01-Jul-24,1,32,2,shaded,solitary,1,EB_2024_Photo32_ind1,6.135,16,16.1,15.9,16,16.3,NA,16.08,16.06,16.1,15.8,15.9,Two animals in photo (not aggregated); only one visible enough for annotation
+Bamfield,Eagle Bay,01-Jul-24,1,33,1,shaded,solitary,1,EB_2024_Photo33_ind1,7.923,15.7,15.3,15.7,15.8,15.8,NA,15.65,15.66,15.9,15.7,15.8,Animals against rock shelf
+Bamfield,Eagle Bay,01-Jul-24,1,34,1,shaded,solitary,1,EB_2024_Photo34_ind1,6.905,17.4,17.2,17.2,17,NA,NA,17.13,17.2,17.3,17,17.1,Animal partially under a rock
+Bamfield,Eagle Bay,01-Jul-24,1,35,1,partly exposed,solitary,1,EB_2024_Photo35_ind1,5.214,16.5,16.8,16.6,16.5,16.6,16.5,16.6,16.58,16.6,16.4,16.5,Animal has one arm tucked undernath body/rock
+Bamfield,Eagle Bay,01-Jul-24,1,36,3,under rock,aggregated,1,EB_2024_Photo36_ind1,4.573,16.9,16.9,17.5,17,16.9,NA,17.08,17.04,17.5,17.2,17.3,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,36,3,under rock,solitary,2,EB_2024_Photo36_ind2,4.739,16.7,17,16.7,16.8,17.1,NA,16.9,16.86,17.7,17.2,17.4,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,36,3,under rock,aggregated,3,EB_2024_Photo36_ind3,5.83,17.1,16.5,17.4,17.6,17.3,17.2,17.2,17.18,18.1,17.8,17.9,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,37,1,under rock,solitary,1,EB_2024_Photo37_ind1,8.715,18.9,19.3,18.7,19.2,19,18.9,19.02,19,21,20.8,20.9,Animal underneath rock
+Bamfield,Eagle Bay,01-Jul-24,1,38,3,shaded,aggregated,1,EB_2024_Photo38_ind1,5.242,17.2,17,17.4,17.4,17.4,17.4,17.32,17.3,17.6,17.4,17.5,Two animals in frame; third animal cut-off
+Bamfield,Eagle Bay,01-Jul-24,1,38,3,shaded,aggregated,2,EB_2024_Photo38_ind2,4.063,17.1,17.2,17,16.8,17.1,17.3,17.08,17.08,18.1,17.9,18,Two animals in frame; third animal cut-off
+Bamfield,Eagle Bay,01-Jul-24,1,39,2,exposed,aggregated,1,EB_2024_Photo39_ind1,8.734,16.7,17.2,16.9,16.9,17,17,17,16.95,17,16.8,16.9,On top of rocks/tucked in between rocks
+Bamfield,Eagle Bay,01-Jul-24,1,39,2,exposed,aggregated,2,EB_2024_Photo39_ind2,4.912,17.3,17.1,17.3,NA,NA,NA,17.2,17.23,17.5,17,17.3,On top of rocks/tucked in between rocks
+Bamfield,Eagle Bay,01-Jul-24,1,40,1,under rock,solitary,1,EB_2024_Photo40_ind1,5.444,15.9,16.2,16.3,16.2,16.5,NA,16.3,16.22,16.1,16,16,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,41,1,under rock,solitary,1,EB_2024_Photo41_ind1,7.047,17.3,16.8,16.8,17.1,17.2,16.7,16.92,16.98,16.9,16.7,16.8,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,42,1,under rock,solitary,1,EB_2024_Photo42_ind1,3.727,16.3,16.4,16.2,16.6,16.4,NA,16.4,16.38,16.5,16.1,16.3,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,42,1,under rock,solitary,2,EB_2024_Photo42_ind2,4.094,16.2,16.1,16.3,16.3,NA,NA,16.23,16.23,16.3,16.1,16.2,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,43,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animal tucked far into the crack; central disc not visible
+Bamfield,Eagle Bay,01-Jul-24,1,44,1,under rock,solitary,1,EB_2024_Photo44_ind1,2.733,16.4,16.4,16.5,16.5,16.6,16.6,16.52,16.5,16.9,16.2,16.6,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,45,1,under rock,solitary,1,EB_2024_Photo45_ind1,4.759,16.5,16.6,16.8,NA,NA,NA,16.7,16.63,16.7,16.5,16.5,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,46,1,under rock,solitary,1,EB_2024_Photo46_ind1,6.404,16.3,16.1,16.7,16.6,16.2,16,16.32,16.32,16.4,16,16.2,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,47,1,under rock,solitary,1,EB_2024_Photo47_ind1,4.769,16.9,16.9,16.9,17.3,NA,NA,17.03,17,17,16.8,16.9,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,48,1,under rock,solitary,1,EB_2024_Photo48_ind1,5.268,17.8,17.3,17.3,17.4,17.5,17.5,17.4,17.47,17.5,17,17.2,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,49,1,under rock,solitary,1,EB_2024_Photo49_ind1,3.693,16.8,16.5,16.6,16.4,16.4,16.6,16.5,16.55,16.9,16.7,16.8,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,50,5,under rock,aggregated,1,EB_2024_Photo50_ind1,9.887,16.3,16.2,16.6,16.3,16.5,NA,16.4,16.38,16.6,16.3,16.4,Clustered between rocks; rock lifted up to reveal sea stars
+Bamfield,Eagle Bay,01-Jul-24,1,50,5,under rock,aggregated,2,EB_2024_Photo50_ind2,5.788,16.5,16.1,16.5,16.4,16.3,NA,16.33,16.36,16.7,16.5,16.6,Clustered between rocks; rock lifted up to reveal sea stars
+Bamfield,Eagle Bay,01-Jul-24,1,50,5,under rock,aggregated,3,EB_2024_Photo50_ind3,3.331,16.2,16,16.2,16.1,16,NA,16.08,16.1,16.2,16.1,16.1,Clustered between rocks; rock lifted up to reveal sea stars
+Bamfield,Eagle Bay,01-Jul-24,1,50,5,under rock,aggregated,4,EB_2024_Photo50_ind4,4.427,16.4,16.2,16.5,16.6,NA,NA,16.43,16.43,16.6,16.4,16.5,Clustered between rocks; rock lifted up to reveal sea stars
+Bamfield,Eagle Bay,01-Jul-24,1,50,5,under rock,aggregated,5,EB_2024_Photo50_ind5,4.866,16.8,16.5,16.6,16.4,16.4,16.4,16.46,16.52,16.6,16.3,16.5,Clustered between rocks; rock lifted up to reveal sea stars
+Bamfield,Eagle Bay,01-Jul-24,1,51,1,under rock,solitary,1,EB_2024_Photo51_ind1,5.195,16.2,15.8,15.9,15.7,15.8,NA,15.8,15.88,16.1,15.9,16,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,52,1,under rock,solitary,1,EB_2024_Photo52_ind1,2.864,15.7,15.6,15.6,15.4,15.5,15.7,15.56,15.58,15.8,15.5,15.6,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,53,1,under rock,solitary,1,EB_2024_Photo53_ind1,4.771,15.6,15.2,15.3,15.6,NA,NA,15.37,15.43,15.4,15.3,15.3,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,54,1,shaded,solitary,1,EB_2024_Photo54_ind1,7.607,17.2,17.3,16.7,NA,NA,NA,17,17.07,17.4,17.1,17.3,in between two large rocks
+Bamfield,Eagle Bay,01-Jul-24,1,55,1,under rock,solitary,1,EB_2024_Photo55_ind1,5.217,16.9,17.1,17.2,17,NA,NA,17.1,17.05,17.2,16.8,17,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,56,2,shaded,solitary,1,EB_2024_Photo56_ind1,3.441,16.3,16.6,16.4,16.3,16.3,16.1,16.34,16.33,16.4,16.1,16.2,data entry error? Only see one star in the photo
+Bamfield,Eagle Bay,01-Jul-24,1,57,2,under rock,solitary,1,EB_2024_Photo57_ind1,7.171,14.8,14.8,14.9,15,NA,NA,14.9,14.88,15,14.6,14.8,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,57,2,under rock,solitary,2,EB_2024_Photo57_ind2,4.189,15.2,15.2,15.2,15,15.1,15.1,15.12,15.13,15.2,14.9,15,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,58,1,partly exposed,solitary,1,EB_2024_Photo58_ind1,7.775,16.4,16.1,16.3,16.4,16.7,NA,16.38,16.38,16.5,16.1,16.3,"one arm tucked under rock; half of body not shaded properly, but temps are very similar so all arms were still included"
+Bamfield,Eagle Bay,01-Jul-24,1,59,2,under rock,aggregated,1,EB_2024_Photo59_ind1,4.914,16.5,16.6,16.5,16.7,16.7,NA,16.63,16.6,16.6,16.4,16.5,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,59,2,under rock,aggregated,2,EB_2024_Photo59_ind2,4.827,16.7,16.1,16.4,16.6,16.7,16.3,16.42,16.47,16.7,16.4,16.5,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,60,2,under rock,aggregated,1,EB_2024_Photo60_ind1,7.962,16.4,16.1,16.2,15.8,16.3,16.2,16.12,16.17,16.5,16.1,16.4,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,61,1,under rock,solitary,1,EB_2024_Photo61_ind1,4.935,15.6,16,15.5,15.9,15.7,15.9,15.8,15.77,16.2,15.9,16,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,62,1,under rock,solitary,1,EB_2024_Photo62_ind1,8.043,16.1,16.1,16.1,15.9,15.9,15.8,15.96,15.98,16.3,15.9,16.1,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,63,1,exposed,solitary,1,EB_2024_Photo63_ind1,7.36,17.4,18,18,17.6,NA,NA,17.87,17.75,18.9,18.5,18.7,Stuck to the side of a rock
+Bamfield,Eagle Bay,01-Jul-24,1,64,1,under rock,solitary,1,EB_2024_Photo64_ind1,4.061,16.8,16.8,16.4,16.5,16.6,16.6,16.58,16.62,17.1,16.5,16.8,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,65,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animal tucked into crack; can't see central disc
+Bamfield,Eagle Bay,01-Jul-24,1,66,1,under rock,solitary,1,EB_2024_Photo66_ind1,6.891,15.9,16.1,16.3,15.8,15.8,16.2,16.04,16.02,16.4,16.2,16.3,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,67,1,under rock,solitary,1,EB_2024_Photo67_ind1,2.56,16.6,16.9,16.8,16.6,16.8,NA,16.78,16.74,17.4,17.2,17.3,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,68,1,under rock,solitary,1,EB_2024_Photo68_ind1,8.775,16,16.7,16.6,16.1,16.4,NA,16.45,16.36,17.7,17.5,17.6,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,69,5,shaded,aggregated,1,EB_2024_Photo69_ind1,7.01,15.6,15.6,15.8,15.8,16,NA,15.8,15.76,16.1,15.9,16,Only 1 animal clearly visible and thus annotated in this photo
+Bamfield,Eagle Bay,01-Jul-24,1,70,1,under rock,solitary,1,EB_2024_Photo70_ind1,7.404,17,16.7,16.6,17.1,17,16.5,16.78,16.82,16.9,16.7,16.8,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,71,10,shaded,aggregated,1,EB_2024_Photo71_ind1,12.668,16,15.9,16.4,NA,NA,NA,16.15,16.1,15.9,15.8,15.8,All tucked into a crevice with three rock walls
+Bamfield,Eagle Bay,01-Jul-24,1,71,10,shaded,aggregated,2,EB_2024_Photo71_ind2,14.794,15.6,16,16.2,NA,NA,NA,16.1,15.93,16.1,15.6,15.8,All tucked into a crevice with three rock walls
+Bamfield,Eagle Bay,01-Jul-24,1,71,10,shaded,aggregated,3,EB_2024_Photo71_ind3,9.656,16,16.1,16.1,16.1,15.8,NA,16.03,16.02,15.9,15.8,15.8,All tucked into a crevice with three rock walls
+Bamfield,Eagle Bay,01-Jul-24,1,71,10,shaded,aggregated,4,EB_2024_Photo71_ind4,9.755,16,15.9,16,NA,NA,NA,15.95,15.97,16.1,15.9,16,All tucked into a crevice with three rock walls
+Bamfield,Eagle Bay,01-Jul-24,1,71,10,shaded,aggregated,5,EB_2024_Photo71_ind5,11.342,16,15.9,NA,NA,NA,NA,15.9,15.95,16.1,15.9,16,All tucked into a crevice with three rock walls
+Bamfield,Eagle Bay,01-Jul-24,1,71,10,shaded,aggregated,6,EB_2024_Photo71_ind6,6.155,15.7,16,16,15.9,NA,NA,15.97,15.9,16.2,16,16.1,All tucked into a crevice with three rock walls
+Bamfield,Eagle Bay,01-Jul-24,1,72,2,under rock,aggregated,1,EB_2024_Photo72_ind1,6.05,16.5,16.5,16.4,16.6,16.6,16.7,16.56,16.55,16.4,16.1,16.3,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,72,2,under rock,aggregated,2,EB_2024_Photo72_ind2,6.492,16.6,16.7,16.9,16.6,16.5,NA,16.68,16.66,16.3,16.2,16.2,Underneath a rock
+Bamfield,Eagle Bay,01-Jul-24,1,73,1,shaded,solitary,1,EB_2024_Photo73_ind1,11.29,16.7,16.6,17,NA,NA,NA,16.8,16.77,17.3,17,17.2,underneath rock shelf
+Bamfield,Eagle Bay,01-Jul-24,2,74,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Data entry error? Photo does not seem to exist
+Bamfield,Eagle Bay,01-Jul-24,2,75,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Data entry error? Photo does not seem to exist
+Bamfield,Eagle Bay,01-Jul-24,2,76,2,exposed,aggregated,1,EB_2024_Photo76_ind1,9.184,21,21.3,21.4,21.2,NA,NA,21.3,21.23,26.3,25.9,26.1,attached to side of rock
+Bamfield,Eagle Bay,01-Jul-24,2,76,2,exposed,aggregated,2,EB_2024_Photo76_ind2,7.774,19.8,20.6,19.9,19.9,NA,NA,20.13,20.05,22.2,21.8,22,lying on cobbles
+Bamfield,Eagle Bay,01-Jul-24,2,77,3,under rock,aggregated,1,EB_2024_Photo77_ind1,9.696,19.7,19.7,19.5,20.7,19.8,20,19.94,19.9,19.8,19.3,19.5,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,77,3,under rock,aggregated,2,EB_2024_Photo77_ind2,8.829,20.3,20.1,20.4,20.1,20.4,NA,20.25,20.26,19.9,19.7,19.7,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,77,3,under rock,aggregated,3,EB_2024_Photo77_ind3,9.073,19.7,20.4,19.9,NA,NA,NA,20.15,20,20.5,19.4,19.8,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,78,2,under rock,aggregated,1,EB_2024_Photo78_ind1,6.737,19.1,19.3,19.8,19.5,19,NA,19.4,19.34,19.9,19.3,19.6,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,78,2,under rock,aggregated,2,EB_2024_Photo78_ind2,8.567,18.8,19.1,19,19.8,19.4,NA,19.33,19.22,20.4,19.6,20,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,79,3,under rock,aggregated,1,EB_2024_Photo79_ind1,8.018,17.4,16.7,17.3,18.1,18.1,17.3,17.5,17.48,17.3,17.1,17.2,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,79,3,under rock,aggregated,2,EB_2024_Photo79_ind2,6.241,17,17.6,17.1,17.2,16.9,NA,17.2,17.16,17.7,17.4,17.5,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,79,3,under rock,aggregated,3,EB_2024_Photo79_ind3,8.389,17.4,17.6,17.1,17,17.2,17.2,17.22,17.25,17.5,17.2,17.3,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,80,2,under rock,aggregated,1,EB_2024_Photo80_ind1,15.617,18.1,17.9,18.5,18.7,17.6,17.6,18.06,18.07,18.7,18.2,18.4,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,80,2,under rock,aggregated,2,EB_2024_Photo80_ind2,14.535,17.7,17.9,17.6,17.3,NA,NA,17.6,17.63,18.7,18,18.4,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,81,2,shaded,aggregated,1,EB_2024_Photo81_ind1,6.113,16.9,16.4,16.9,NA,NA,NA,16.65,16.73,16.9,16.6,16.7,two stars; only one annotated (with central disc visible)
+Bamfield,Eagle Bay,01-Jul-24,2,82,6,under rock,aggregated,1,EB_2024_Photo82_ind1,7.462,18.2,17.8,17.7,18.6,18.3,NA,18.1,18.12,18.6,18,18.4,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,82,6,under rock,aggregated,2,EB_2024_Photo82_ind2,6.452,17.9,18.3,17.9,18,17.9,NA,18.03,18,17.8,17.4,17.6,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,82,6,under rock,aggregated,3,EB_2024_Photo82_ind3,4.854,18.5,18.3,18.2,NA,NA,NA,18.25,18.33,19,18.4,18.8,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,82,6,under rock,aggregated,4,EB_2024_Photo82_ind4,4.548,18.1,18.8,18.2,18.4,NA,NA,18.47,18.38,19.2,18.6,18.8,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,82,6,under rock,aggregated,5,EB_2024_Photo82_ind5,7.142,18.1,18.2,18.3,17.7,NA,NA,18.07,18.08,18.9,18.6,18.8,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,82,6,under rock,aggregated,6,EB_2024_Photo82_ind6,8.487,18,18.1,17.9,17.8,18.3,NA,18.03,18.02,18.8,17.9,18.4,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,83,1,partly exposed,solitary,1,EB_2024_Photo83_ind1,10.224,16,16.4,16.4,16.4,NA,NA,16.4,16.3,16.8,16.4,16.7,main body exposed but arms tucked into a crack
+Bamfield,Eagle Bay,01-Jul-24,2,84,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Too dark in crevice; difficult to see outline of star
+Bamfield,Eagle Bay,01-Jul-24,2,85,1,under rock,solitary,1,EB_2024_Photo85_ind1,8.586,20,20.3,19.9,18.1,20.7,20.7,19.94,19.95,20,19.4,19.7,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,86,1,shaded,solitary,1,EB_2024_Photo86_ind1,8.306,20.2,20.3,21.8,21.4,NA,NA,21.17,20.93,20.2,20,20.1,tucked into rock crevice
+Bamfield,Eagle Bay,01-Jul-24,2,87,1,under rock,solitary,1,EB_2024_Photo87_ind1,5.793,19.9,19.2,19.3,20.2,20,20.2,19.78,19.8,19.2,18.9,19,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,88,2,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see sea stars at all in photo
+Bamfield,Eagle Bay,01-Jul-24,2,89,1,under rock,solitary,1,EB_2024_Photo89_ind1,9.53,19.7,20.8,20.2,20.3,19.9,20.5,20.34,20.23,20.3,19.8,20,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,90,3,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see central disc - animal tucked away in crevice
+Bamfield,Eagle Bay,01-Jul-24,2,91,2,shaded,aggregated,1,EB_2024_Photo91_ind1,6.725,16.4,16.3,16,15.8,NA,NA,16.03,16.13,16.2,15.9,16.1,animals underneath rock/in crevice
+Bamfield,Eagle Bay,01-Jul-24,2,91,2,shaded,aggregated,2,EB_2024_Photo91_ind2,5.986,16,15.9,15.9,15.8,15.9,NA,15.88,15.9,16.2,15.8,16,animals underneath rock/in crevice
+Bamfield,Eagle Bay,01-Jul-24,2,92,2,under rock,aggregated,1,EB_2024_Photo92_ind1,7.712,19.2,19.4,19.1,19.4,19.1,19.3,19.26,19.25,19.1,18.9,19,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,92,2,under rock,aggregated,2,EB_2024_Photo92_ind2,6.461,19.5,19,19.6,19.2,20,19.8,19.52,19.52,19.9,19.4,19.7,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,93,2,under rock,aggregated,1,EB_2024_Photo93_ind1,9.797,17.9,17.9,18.4,18.4,18.5,17.9,18.22,18.17,19.6,19,19.4,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,93,2,shaded,aggregated,2,EB_2024_Photo93_ind2,6.772,18.2,18.4,17.5,17.6,18.1,18.6,18.04,18.07,17.9,17.7,17.8,"animal has 6 arms…first 5 arms annotated, starting at madreporite"
+Bamfield,Eagle Bay,01-Jul-24,2,94,2,shaded,aggregated,1,EB_2024_Photo94_ind1,7.143,17.9,18,18.2,17.9,18.1,18.4,18.12,18.08,18.4,18.3,18.3,
+Bamfield,Eagle Bay,01-Jul-24,2,94,2,shaded,aggregated,2,EB_2024_Photo94_ind2,5.872,17.2,17.5,17.5,17,17.4,17.6,17.4,17.37,17.8,17.5,17.6,on barnacle chips beside rock shelf
+Bamfield,Eagle Bay,01-Jul-24,2,95,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Central disc not visible; sea star too shaded
+Bamfield,Eagle Bay,01-Jul-24,2,96,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sea star not visible; too deep in shaded crevice
+Bamfield,Eagle Bay,01-Jul-24,2,97,1,exposed,solitary,1,EB_2024_Photo97_ind1,5.846,16.4,16.6,16.8,16.6,16.3,16.4,16.54,16.52,16.5,16.4,16.5,on large rock
+Bamfield,Eagle Bay,01-Jul-24,2,98,2,shaded,aggregated,1,EB_2024_Photo98_ind1,4.431,17.6,17.3,17.6,NA,NA,NA,17.45,17.5,20.3,19.7,20,underneath cobble shelf
+Bamfield,Eagle Bay,01-Jul-24,2,99,2,under rock,aggregated,1,EB_2024_Photo99_ind1,7.166,18.1,18.6,18.5,17.8,NA,NA,18.3,18.25,18.9,18.6,18.7,underneath rock
+Bamfield,Eagle Bay,01-Jul-24,2,99,2,under rock,aggregated,2,EB_2024_Photo99_ind2,8.061,17.6,18.1,17.8,17.7,17.7,NA,17.83,17.78,19.2,18.8,19,underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,1,4,partly exposed,aggregated,1,BB_2024_Photo1_ind1,5.934,13.1,13.5,13.2,13.5,13.4,NA,13.4,13.34,13.3,12.9,13.1,can only see two sea stars in photo; lots of ulva around
+Bamfield,Brady's Beach,28-Jun-24,1,1,4,partly exposed,aggregated,2,BB_2024_Photo1_ind2,2.405,13,12.6,12.7,13,13.5,13,12.96,12.97,13.8,13.5,13.6,can only see two sea stars in photo; lots of ulva around
+Bamfield,Brady's Beach,28-Jun-24,1,2,1,exposed,solitary,1,BB_2024_Photo2_ind1,16.208,14.5,14.5,14.2,14.8,14.6,14.2,14.46,14.47,14,13.8,13.9,beside anemones and ulva
+Bamfield,Brady's Beach,28-Jun-24,1,3,5,partly exposed,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animals very shaded; cannot see central discs or most of arms
+Bamfield,Brady's Beach,28-Jun-24,1,4,1,exposed,solitary,1,BB_2024_Photo4_ind1,11.246,16.7,17.2,17.1,16.5,16.1,16.2,16.62,16.63,16,15.7,15.8,surrounded by anemones
+Bamfield,Brady's Beach,28-Jun-24,1,5,1,exposed,solitary,1,BB_2024_Photo5_ind1,8.334,15.9,15.8,15.9,16.1,16.1,NA,15.98,15.96,16.2,15.8,16,on large cobbles
+Bamfield,Brady's Beach,28-Jun-24,1,6,1,partly exposed,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cannot tell where central disc is, ends of arms undefined"
+Bamfield,Brady's Beach,28-Jun-24,1,7,1,exposed,solitary,1,BB_2024_Photo7_ind1,7.205,17.1,16.2,15.8,16.3,16.8,15.8,16.18,16.33,16.1,15.7,16,animal on side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,8,1,under rock,solitary,1,BB_2024_Photo8_ind1,3.797,16.3,16.7,16.4,16.7,16.6,16.6,16.6,16.55,16.9,16.6,16.8,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,9,1,under rock,solitary,1,BB_2024_Photo9_ind1,5.827,14.8,14.7,14.7,15.2,NA,NA,14.87,14.85,14.9,14.6,14.8,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,10,1,under rock,solitary,1,BB_2024_Photo10_ind1,11.834,14.1,14.6,14.4,13.8,13.7,13.8,14.06,14.07,14.1,13.9,14,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,11,2,under rock,aggregated,1,BB_2024_Photo11_ind1,3.566,14.1,14.2,14.2,13.8,NA,NA,14.07,14.08,14.1,13.9,14,two juveniles; one is slightly harder to see
+Bamfield,Brady's Beach,28-Jun-24,1,11,2,under rock,aggregated,1,BB_2024_Photo11_ind2,2.177,14,14.1,14.1,NA,NA,NA,14.1,14.07,14.2,14,14.1,two juveniles; one is slightly harder to see
+Bamfield,Brady's Beach,28-Jun-24,1,12,3,shaded,aggregated,1,BB_2024_Photo12_ind1,3.865,14.6,14.2,14.6,14.4,NA,NA,14.4,14.45,14.2,14,14.1,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,1,12,3,shaded,aggregated,2,BB_2024_Photo12_ind2,4.727,14.3,13.8,14.1,14.1,NA,NA,14,14.08,14.1,13.7,13.9,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,1,12,3,shaded,aggregated,3,BB_2024_Photo12_ind3,3.966,13.8,14.1,14,NA,NA,NA,14.05,13.97,14.2,13.9,14.1,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,1,13,4,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Did not include; framing cuts off some stars and others are hard to distinguish
+Bamfield,Brady's Beach,28-Jun-24,1,14,1,under rock,solitary,1,BB_2024_Photo14_ind1,8.899,16.7,17.7,17,16.6,17.1,17.6,17.2,17.12,17.2,16.9,17.1,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,15,1,under rock,solitary,1,BB_2024_Photo15_ind1,3.462,15.4,16.1,15.6,15.3,16,15.7,15.74,15.68,16.7,16.5,16.6,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,16,2,under rock,aggregated,1,BB_2024_Photo16_ind1,3.416,14,14,14,14.2,14.1,NA,14.08,14.06,14.4,14.2,14.3,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,16,2,under rock,aggregated,2,BB_2024_Photo16_ind2,6.446,13.9,14.2,14,13.7,13.9,NA,13.95,13.94,19.8,14.4,16.2,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,17,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Photo really blurry; can't see central disc clearly
+Bamfield,Brady's Beach,28-Jun-24,1,18,1,under rock,solitary,1,BB_2024_Photo18_ind1,5.756,13.3,13.6,13.6,13.7,13.3,13,13.44,13.42,14.4,13.9,14.2,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,19,1,under rock,solitary,1,BB_2024_Photo19_ind1,3.444,13.1,13.3,12.9,13.2,13.6,13.8,13.36,13.32,14.8,14.1,14.4,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,20,1,under rock,solitary,1,BB_2024_Photo20_ind1,4.578,15.5,15.6,15.6,15.7,15.8,16.1,15.76,15.72,15.8,15.4,15.5,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,21,1,under rock,solitary,1,BB_2024_Photo21_ind1,2.495,15.3,15.5,15.6,15.9,15.7,15.6,15.66,15.6,15.8,15.6,15.7,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,22,2,under rock,solitary,1,BB_2024_Photo22_ind1,6.009,16,16.4,16.4,16.1,16.3,16.5,16.34,16.28,17.2,16.9,17,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,22,2,under rock,solitary,2,BB_2024_Photo22_ind2,4.22,16.1,15.8,16,16.1,16.9,16.2,16.2,16.18,16.4,16.1,16.2,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,23,2,under rock,aggregated,1,BB_2024_Photo23_ind1,9.757,16.5,17.6,17.1,16.9,16.3,16.9,16.96,16.88,18.3,18,18.1,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,23,2,under rock,aggregated,2,BB_2024_Photo23_ind2,5.159,16.5,17.2,17.2,16.8,16.9,16.8,16.98,16.9,18,17.6,17.8,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,24,1,under rock,solitary,1,BB_2024_Photo24_ind1,5.283,14.4,14.7,14.8,14.8,14.9,15.1,14.86,14.78,15,14.9,14.9,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,25,1,under rock,solitary,1,BB_2024_Photo25_ind1,3.047,15.5,16.2,16.2,15.1,15.3,15.2,15.6,15.58,15.8,15.4,15.8,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,26,3,under rock,aggregated,1,BB_2024_Photo26_ind1,4.297,15.9,15.9,15.5,15.8,16.2,NA,15.85,15.86,17,16.5,16.7,animal under rock; one arm not annotated as it was regrowing
+Bamfield,Brady's Beach,28-Jun-24,1,26,3,under rock,aggregated,2,BB_2024_Photo26_ind2,6.094,15.4,15.8,15.7,15.8,15.4,15.4,15.62,15.58,16.4,16,16.3,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,26,3,under rock,aggregated,3,BB_2024_Photo26_ind3,6.073,15.2,15.7,15.9,15.4,15.1,15.3,15.48,15.43,15.8,15.5,15.6,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,27,1,under rock,solitary,1,BB_2024_Photo27_ind1,3.103,18.6,19.3,19.9,19.6,19.4,19,19.44,19.3,21.2,20.4,20.9,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,28,1,under rock,solitary,1,BB_2024_Photo28_ind1,4.973,16.2,17,16.2,15.9,16.4,NA,16.38,16.34,17.8,16.6,17.3,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,29,1,under rock,solitary,1,BB_2024_Photo29_ind1,4.297,16.8,17.5,17,16.3,NA,NA,16.93,16.9,17.8,17.5,17.6,animal under rock; two arms regrowing and were not annotated
+Bamfield,Brady's Beach,28-Jun-24,1,30,3,under rock,solitary,1,BB_2024_Photo30_ind1,3.341,16.8,16.7,17.4,17.6,17,17.6,17.26,17.18,18.1,17.6,17.8,under rock; none are directly touching each other
+Bamfield,Brady's Beach,28-Jun-24,1,30,3,under rock,solitary,2,BB_2024_Photo30_ind2,6.407,16.9,17.2,17.5,17.7,17.5,17.3,17.44,17.35,18.7,18.4,18.6,under rock; none are directly touching each other
+Bamfield,Brady's Beach,28-Jun-24,1,30,3,under rock,solitary,3,BB_2024_Photo30_ind3,3.991,17.3,17.3,17.7,17.9,17.6,17.3,17.56,17.52,18.9,17.9,18.5,under rock; none are directly touching each other
+Bamfield,Brady's Beach,28-Jun-24,1,31,1,under rock,solitary,1,BB_2024_Photo31_ind1,4.995,14,14.5,13.9,14.1,14.5,14.6,14.32,14.27,15.8,15.3,15.6,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,32,1,under rock,solitary,1,BB_2024_Photo32_ind1,8.348,17.6,17.7,17.9,18.7,18.2,17.8,18.06,17.98,18.8,18.3,18.5,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,33,2,tidepool,aggregated,1,BB_2024_Photo33_ind1,4.563,12.9,13.4,13.4,12.8,13.2,13.6,13.28,13.22,13.6,13.2,13.3,Dry in photo; animals were under rock that was sitting in a tidepool
+Bamfield,Brady's Beach,28-Jun-24,1,33,2,tidepool,aggregated,2,BB_2024_Photo33_ind2,5.238,13.3,13.4,13.3,13.4,13.5,13.3,13.38,13.37,14.2,13.9,14.1,Dry in photo; animals were under rock that was sitting in a tidepool
+Bamfield,Brady's Beach,28-Jun-24,1,34,1,under rock,solitary,1,BB_2024_Photo34_ind1,4.744,16.4,16.1,16.4,16.8,16.9,17.2,16.68,16.63,17.8,17.5,17.7,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,35,1,under rock,solitary,1,BB_2024_Photo35_ind1,3.36,15.8,15.8,16,16.1,15.7,15.6,15.84,15.83,16.4,16,16.2,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,36,1,under rock,solitary,1,BB_2024_Photo36_ind1,5.29,17.2,17.2,17.8,17.6,17.6,17.2,17.48,17.43,19.1,18.8,19,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,37,1,under rock,solitary,1,BB_2024_Photo37_ind1,5.238,14.8,15.5,15.2,15,14.6,14.4,14.94,14.92,15.9,15.6,15.8,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,38,2,tidepool,aggregated,1,BB_2024_Photo38_ind1,7.483,14.4,14.6,14.6,14.6,14.9,14.7,14.68,14.63,16.5,16.2,16.4,Dry in photo; animals were under rock that was sitting in a tidepool
+Bamfield,Brady's Beach,28-Jun-24,1,38,2,tidepool,aggregated,2,BB_2024_Photo38_ind2,9.646,14.1,14.4,14.3,13.8,14.5,14.7,14.34,14.3,16,15.7,15.9,Dry in photo; animals were under rock that was sitting in a tidepool
+Bamfield,Brady's Beach,28-Jun-24,1,39,1,under rock,aggregated,1,BB_2024_Photo39_ind1,5.125,12.3,12.5,12.3,12.5,12.7,NA,12.5,12.46,13,12.5,12.8,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,40,1,partly exposed,solitary,1,BB_2024_Photo40_ind1,4.768,14.4,14.6,14.7,14.2,14.1,14.5,14.42,14.42,15.2,15,15.1,animal underneath fucus; on side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,41,1,shaded,solitary,1,BB_2024_Photo41_ind1,15.261,13.7,13.8,14.5,13.2,NA,NA,13.83,13.8,13.1,13,13,animal partly covered in sand
+Bamfield,Brady's Beach,28-Jun-24,1,42,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animal too deep into crevice; can't see central disc
+Bamfield,Brady's Beach,28-Jun-24,1,43,1,tidepool,solitary,1,BB_2024_Photo43_ind1,12.996,15.9,16.3,16,NA,NA,NA,16.15,16.07,15.8,15.6,15.6,animal partially in the water; thermal spot measurements not placed on submerged spots
+Bamfield,Brady's Beach,28-Jun-24,1,44,1,partly exposed,solitary,1,BB_2024_Photo44_ind1,13.366,14.5,14.4,15.1,15.1,NA,NA,14.87,14.78,15.2,15,15.1,two arms tucked in between two rocks
+Bamfield,Brady's Beach,28-Jun-24,1,45,1,exposed,solitary,1,BB_2024_Photo45_ind1,15.456,16.3,16.1,17.2,17.5,NA,NA,16.93,16.78,17.4,17.1,17.2,attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,46,1,exposed,solitary,1,BB_2024_Photo46_ind1,14.621,17.2,15.5,17,17.8,NA,NA,16.77,16.88,17.9,17.5,17.7,partially shaded by large boulder
+Bamfield,Brady's Beach,28-Jun-24,1,47,3,under rock,aggregated,1,BB_2024_Photo47_ind1,3.741,14.3,14.4,14.3,14,14.2,NA,14.23,14.24,14.8,14.3,14.5,one arm regrowing; did not annotate
+Bamfield,Brady's Beach,28-Jun-24,1,47,3,under rock,aggregated,2,BB_2024_Photo47_ind2,7.873,13.6,13.4,13.7,13.5,13.6,13.7,13.58,13.58,14.3,14,14.1,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,47,3,under rock,aggregated,3,BB_2024_Photo47_ind3,4.84,13.9,14.1,14.2,13.9,14,13.9,14.02,14,14.8,14.2,14.5,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,48,2,under rock,aggregated,1,BB_2024_Photo48_ind1,14.679,15.4,15.1,15.5,15.6,15.6,15,15.36,15.37,15.5,15.3,15.4,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,48,2,under rock,aggregated,2,BB_2024_Photo48_ind2,11.717,15.6,15.7,15.2,15.6,NA,NA,15.5,15.53,16.4,16.1,16.3,animal under rock
+Bamfield,Brady's Beach,28-Jun-24,1,49,1,shaded,solitary,1,BB_2024_Photo49_ind1,13.036,15.3,16.4,16,15.3,15.1,15.4,15.64,15.58,17.6,16.8,17.2,animal partly covered in sand
+Bamfield,Brady's Beach,28-Jun-24,1,50,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animal too deep into crevice; can't see central disc
+Bamfield,Brady's Beach,28-Jun-24,1,51,1,partly exposed,solitary,1,BB_2024_Photo51_ind1,7.465,14.1,15,13.7,NA,NA,NA,14.35,14.27,14.7,14.2,14.4,animal on top of sand; partially underneath a boulder
+Bamfield,Brady's Beach,28-Jun-24,1,52,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animal very squished; did not annotate - no clue where central disc is
+Bamfield,Brady's Beach,28-Jun-24,1,53,1,exposed,solitary,1,BB_2024_Photo53_ind1,10.593,17.2,17,16.8,17.1,16.6,NA,16.88,16.94,17.3,17,17.1,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,54,1,exposed,solitary,1,BB_2024_Photo54_ind1,7.46,16.8,16.7,17,16.3,17.2,NA,16.8,16.8,17.6,17.3,17.4,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,55,2,exposed,aggregated,1,BB_2024_Photo55_ind1,8.941,17,17.2,16.9,16.5,NA,NA,16.87,16.9,17.9,17.5,17.6,tucked in between two boulders; each animal on the side of the opposing rock
+Bamfield,Brady's Beach,28-Jun-24,1,55,2,exposed,aggregated,2,BB_2024_Photo55_ind2,4.361,17.2,17.4,17,16.9,17.5,NA,17.2,17.2,18.4,18,18.2,tucked in between two boulders; each animal on the side of the opposing rock
+Bamfield,Brady's Beach,28-Jun-24,1,56,1,exposed,solitary,1,BB_2024_Photo56_ind1,7.72,15.8,16.7,17,15.5,NA,NA,16.4,16.25,17.8,17.6,17.7,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,57,1,under rock,solitary,1,BB_2024_Photo57_ind1,5.783,17.4,17.6,18.7,17.7,16.6,16.6,17.44,17.43,19.3,18.4,18.8,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,58,1,under rock,solitary,1,BB_2024_Photo58_ind1,1.893,15.8,15.6,16.1,15.8,15.6,15.6,15.74,15.75,16.8,16.2,16.6,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,59,1,exposed,solitary,1,BB_2024_Photo59_ind1,6.725,17.5,18.2,17.9,NA,NA,NA,18.05,17.87,19.6,19.2,19.4,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,1,60,1,under rock,solitary,1,BB_2024_Photo60_ind1,3.403,18.1,18,18.2,18.3,18.4,17.7,18.12,18.12,18.2,18,18.1,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,61,1,under rock,solitary,1,BB_2024_Photo61_ind1,3.206,17,17,17.3,16.9,16.6,17,16.96,16.97,18.3,17.9,18.1,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,62,2,under rock,aggregated,1,BB_2024_Photo62_ind1,3.217,16.6,16.4,16.8,16.9,16.6,16.7,16.68,16.67,18.9,17.8,18.5,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,62,2,under rock,aggregated,2,BB_2024_Photo62_ind2,2.689,17,17,16.7,16.8,16.9,NA,16.85,16.88,19.4,18.8,19,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,1,63,1,under rock,solitary,1,BB_2024_Photo63_ind1,4.403,14.8,14.8,14.8,14.9,14.6,14.6,14.74,14.75,15.8,15.2,15.5,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,64,2,shaded,aggregated,1,BB_2024_Photo64_ind1,8.457,16,16.6,17.1,16.6,NA,NA,16.77,16.58,18.2,16.4,17,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,64,2,shaded,aggregated,2,BB_2024_Photo64_ind2,7.633,17.1,17.1,17,NA,NA,NA,17.05,17.07,17.2,16.7,17,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,65,3,shaded,aggregated,1,BB_2024_Photo65_ind1,6.929,16.2,16.3,16,NA,NA,NA,16.15,16.17,16,15.6,15.9,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,65,3,shaded,aggregated,2,BB_2024_Photo65_ind2,8.776,16.5,16.3,15.4,15.9,16.6,16.8,16.2,16.25,15.9,15.4,15.7,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,65,3,shaded,aggregated,3,BB_2024_Photo65_ind3,10.271,15.8,16.2,17.1,16.6,NA,NA,16.63,16.43,16,15.5,15.8,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,66,1,shaded,solitary,1,BB_2024_Photo66_ind1,10.706,16.9,17.1,17.4,16.8,NA,NA,17.1,17.05,20.9,20.1,20.5,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,67,1,tidepool,solitary,1,BB_2024_Photo67_ind1,11.497,24.9,22,24.2,24.4,NA,NA,23.53,23.88,24.9,24.3,24.6,aboral surface of animal and 2 full arms in tidepool; spot measurements only placed on emersed areas
+Bamfield,Brady's Beach,28-Jun-24,2,68,3,shaded,aggregated,1,BB_2024_Photo68_ind1,10.024,14.8,15,15.1,14.9,NA,NA,15,14.95,15.5,15.2,15.4,animals in rock crevice
+Bamfield,Brady's Beach,28-Jun-24,2,68,3,shaded,aggregated,2,BB_2024_Photo68_ind2,10.097,14.6,14.8,14.8,14.8,NA,NA,14.8,14.75,14.8,14.6,14.7,animals in rock crevice
+Bamfield,Brady's Beach,28-Jun-24,2,69,1,exposed,solitary,1,BB_2024_Photo69_ind1,12.341,18.2,15.2,15.3,16.2,16.9,17,16.12,16.47,17.5,16.4,16.7,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,70,3,shaded,aggregated,1,BB_2024_Photo70_ind1,6.177,14.9,15.3,15.1,14.7,NA,NA,15.03,15,16.7,16.5,16.6,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,70,3,shaded,aggregated,2,BB_2024_Photo70_ind2,7.535,13.9,14.5,14.2,NA,NA,NA,14.35,14.2,17.4,16,16.8,animals underneath rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,71,1,exposed,solitary,1,BB_2024_Photo71_ind1,9.519,20,17.4,18.6,16.3,15.8,NA,17.03,17.62,16.5,15.9,16.1,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,72,4,shaded,aggregated,1,BB_2024_Photo72_ind1,9.126,15.7,15.4,15.3,15.6,16.4,17,15.94,15.9,17.4,17,17.2,Only one animal clearly visible; others are too deep in crevice and one is underneath the animal I annotated
+Bamfield,Brady's Beach,28-Jun-24,2,73,2,shaded,aggregated,1,BB_2024_Photo73_ind1,9.284,13.1,13.1,13.1,12.8,12.8,NA,12.95,12.98,14,13.7,13.9,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,73,2,shaded,aggregated,2,BB_2024_Photo73_ind2,9.033,13.3,13.3,13.2,NA,NA,NA,13.25,13.27,12.9,12.5,12.7,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,74,3,exposed,aggregated,1,BB_2024_Photo74_ind1,10.312,22.5,20.6,20.9,22.7,21.5,21.9,21.52,21.68,23,22.2,22.7,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,74,3,exposed,aggregated,2,BB_2024_Photo74_ind2,9.45,21.8,18.3,21,19.9,22.3,NA,20.38,20.66,21.6,21.1,21.4,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,75,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc - did not annotate
+Bamfield,Brady's Beach,28-Jun-24,2,76,1,under rock,solitary,1,BB_2024_Photo76_ind1,5.654,16.1,16.9,17.2,16.5,16.1,NA,16.68,16.56,20.4,19,19.5,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,77,2,under rock,aggregated,1,BB_2024_Photo77_ind1,5.139,15.8,16.8,16.5,16.4,16.1,16.2,16.4,16.3,18.5,18,18.1,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,77,2,under rock,aggregated,2,BB_2024_Photo77_ind2,5.118,16.2,16.6,16.8,16.8,16,16,16.44,16.4,17.7,17,17.5,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,78,1,under rock,solitary,1,BB_2024_Photo78_ind1,8.853,15.7,15.5,15.8,15.6,NA,NA,15.63,15.65,16.2,15.9,16.1,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,79,1,shaded,solitary,1,BB_2024_Photo79_ind1,6.794,14.8,14.9,15,NA,NA,NA,14.95,14.9,15.5,15,15.2,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,2,80,1,shaded,solitary,1,BB_2024_Photo80_ind1,7.927,14.2,14,14.7,14.8,NA,NA,14.5,14.43,15.2,14.8,15,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,2,81,5,shaded,aggregated,1,BB_2024_Photo81_ind1,8.764,15.7,16.4,16.5,16.4,15.7,NA,16.25,16.14,18.3,17.9,18,under rock shelf; only three are visible enough for annotations
+Bamfield,Brady's Beach,28-Jun-24,2,81,5,shaded,aggregated,2,BB_2024_Photo81_ind2,6.727,17.2,16.2,15.9,16.1,16.3,NA,16.13,16.34,17.3,16.3,16.9,under rock shelf; only three are visible enough for annotations
+Bamfield,Brady's Beach,28-Jun-24,2,81,5,shaded,aggregated,3,BB_2024_Photo81_ind3,8.773,15.5,15.4,15.5,15.3,15.5,NA,15.43,15.44,15.8,15.7,15.8,under rock shelf; only three are visible enough for annotations
+Bamfield,Brady's Beach,28-Jun-24,2,82,2,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc - did not annotate
+Bamfield,Brady's Beach,28-Jun-24,2,83,1,exposed,solitary,1,BB_2024_Photo83_ind1,9.23,19.1,19.6,18.7,NA,NA,NA,19.15,19.13,19.3,19,19.2,Animal in between two rocks
+Bamfield,Brady's Beach,28-Jun-24,2,84,1,exposed,solitary,1,BB_2024_Photo84_ind1,6.683,20.9,22.6,20.3,19.8,21.5,NA,21.05,21.02,21.3,21.1,21.2,animal attached to side of rock
+Bamfield,Brady's Beach,28-Jun-24,2,85,1,exposed,solitary,1,BB_2024_Photo85_ind1,7.742,18.6,18.4,19.9,21,17.4,18.5,19.04,18.97,20.4,19.6,20,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,86,1,under rock,solitary,1,BB_2024_Photo86_ind1,4.168,17.7,18.6,17.7,17.9,18.1,18,18.06,18,19.8,18.8,19.5,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,87,3,partly exposed,aggregated,1,BB_2024_Photo87_ind1,10.341,16.2,15.7,17.5,17.5,16.3,NA,16.75,16.64,17.9,16.4,17.4,animals tucked in between cobbles; only two annotated (visible central disc and arm)
+Bamfield,Brady's Beach,28-Jun-24,2,87,3,partly exposed,aggregated,2,BB_2024_Photo87_ind2,8.14,15.3,14.8,15.3,15.7,15.4,NA,15.3,15.3,16.5,16.3,16.4,animals tucked in between cobbles; only two annotated (visible central disc and arm)
+Bamfield,Brady's Beach,28-Jun-24,2,88,1,partly exposed,solitary,1,BB_2024_Photo88_ind1,8.894,15.7,15.7,15.2,16.5,16.5,NA,15.98,15.92,17.1,16.6,16.8,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,89,2,under rock,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animals were upsidedown (oral side up) - did not annotate for consistency
+Bamfield,Brady's Beach,28-Jun-24,2,90,1,under rock,aggregated,1,BB_2024_Photo90_ind1,4.886,18.3,18.4,18.4,18.6,18.5,19,18.58,18.53,23.8,23.5,23.6,animal underneath rock
+Bamfield,Brady's Beach,28-Jun-24,2,91,2,exposed,aggregated,1,BB_2024_Photo91_ind1,9.494,21.7,19.6,20.6,20.7,19.7,20.2,20.16,20.42,24.5,22.9,23.8,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,91,2,partly exposed,aggregated,2,BB_2024_Photo91_ind2,8.842,18.7,19,18.5,NA,NA,NA,18.75,18.73,20,19.5,19.8,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,92,1,exposed,solitary,1,BB_2024_Photo92_ind1,12.604,19.2,17.2,17,20,17.4,NA,17.9,18.16,19.4,18.7,19.2,Animal tucked in between a few rocks
+Bamfield,Brady's Beach,28-Jun-24,2,93,4,shaded,solitary,1,BB_2024_Photo93_ind1,9.006,16.6,17.2,16.8,NA,NA,NA,17,16.87,19.5,18.7,19.2,Animal tucked in between a few rocks; only one star visible enough for annotation
+Bamfield,Brady's Beach,28-Jun-24,2,94,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animal too shaded - did no annotate (can't see central disc)
+Bamfield,Brady's Beach,28-Jun-24,2,95,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot clearly see central disc or ends of arms
+Bamfield,Brady's Beach,28-Jun-24,2,96,1,under rock,solitary,1,BB_2024_Photo96_ind1,4.888,16.2,16.8,16.8,16.8,16.8,17,16.84,16.73,20.7,20,20.3,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,97,1,under rock,solitary,1,BB_2024_Photo97_ind1,5.124,15.4,15.7,15.7,15.4,15.5,15.8,15.62,15.58,15.8,15.5,15.7,rock was flipped over to reveal sea stars; looks like one arm may be split into two? Measurement placed in between
+Bamfield,Brady's Beach,28-Jun-24,2,98,4,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animals too deep in crevice - did not annotate
+Bamfield,Brady's Beach,28-Jun-24,2,99,1,under rock,solitary,1,BB_2024_Photo99_ind1,6.019,16.2,16.4,16.1,16.8,16.6,NA,16.48,16.42,18.9,18.2,18.3,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,100,1,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Central disc not visible; sea star too shaded
+Bamfield,Brady's Beach,28-Jun-24,2,101,1,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Central disc not visible; sea star too shaded
+Bamfield,Brady's Beach,28-Jun-24,2,102,4,shaded,aggregated,1,BB_2024_Photo102_ind1,6.156,15,15,15.3,14.8,NA,NA,15.03,15.03,15.9,15.6,15.8,only one animal clearly visible and annotated
+Bamfield,Brady's Beach,28-Jun-24,2,103,2,under rock,aggregated,1,BB_2024_Photo103_ind1,9.101,15.1,15.5,15,15.1,15.3,15.2,15.22,15.2,14.6,14.3,14.4,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,103,2,under rock,aggregated,2,BB_2024_Photo103_ind2,6.39,15.7,16.5,16.1,NA,NA,NA,16.3,16.1,17.9,17.3,17.6,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,104,3,under rock,aggregated,1,BB_2024_Photo104_ind1,5.664,16.5,16.4,17,17.2,17.2,17.2,17,16.92,23.4,22.6,23,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,104,3,under rock,aggregated,2,BB_2024_Photo104_ind2,2.569,16.4,17.2,16.7,17.1,16.6,17.1,16.94,16.85,20.7,20.1,20.4,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,104,3,under rock,aggregated,3,BB_2024_Photo104_ind3,2.817,17.2,17.1,17.7,17.9,17.8,17.3,17.56,17.5,22.5,22,22.3,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,105,1,under rock,solitary,1,BB_2024_Photo105_ind1,5.124,16.7,17,16.2,16.7,17.1,17.2,16.84,16.82,19.2,18.3,18.8,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,106,4,under rock,aggregated,1,BB_2024_Photo106_ind1,3.344,18.2,18.7,18.7,19,18.6,NA,18.75,18.64,22.1,19.8,20.6,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,106,4,under rock,aggregated,2,BB_2024_Photo106_ind2,6.064,17.5,18.7,18,16.8,17.1,17.4,17.6,17.58,25.1,22.4,24.1,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,106,4,under rock,solitary,3,BB_2024_Photo106_ind3,2.483,17.7,18,17.8,18,17.9,17.8,17.9,17.87,20.9,20,20.4,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,106,4,under rock,solitary,4,BB_2024_Photo106_ind4,2.908,17.8,17.6,18.2,18.8,18.8,NA,18.35,18.24,22.1,21.3,21.6,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,107,1,under rock,solitary,1,BB_2024_Photo107_ind1,3.438,17.4,17.6,17.6,17.9,17.6,17.9,17.72,17.67,20.1,19.5,19.9,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,108,4,shaded,aggregated,1,BB_2024_Photo108_ind1,2.637,17.2,17,16,16.5,17.2,17.3,16.8,16.87,17.9,17.2,17.5,animals tucked in between cobbles; only two annotated (visible central disc and arm)
+Bamfield,Brady's Beach,28-Jun-24,2,108,4,shaded,aggregated,2,BB_2024_Photo108_ind2,5.491,16,15.4,15.7,16,NA,NA,15.7,15.78,16.6,16.3,16.4,animals tucked in between cobbles; only two annotated (visible central disc and arm)
+Bamfield,Brady's Beach,28-Jun-24,2,109,2,under rock,aggregated,1,BB_2024_Photo109_ind1,6.367,16.9,16.6,16.3,16.8,17.5,17,16.84,16.85,20.6,19.8,20.1,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,109,2,under rock,aggregated,2,BB_2024_Photo109_ind2,4.079,16.7,16.9,17.1,16.8,16.8,17.1,16.94,16.9,20.3,19.9,20.1,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,110,1,under rock,solitary,1,BB_2024_Photo110_ind1,5.718,16.4,17.1,17.2,17.6,NA,NA,17.3,17.08,18.6,17.3,18.3,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,111,1,under rock,solitary,1,BB_2024_Photo111_ind1,2.776,16.2,16.1,16.5,16.4,16.9,16.1,16.4,16.37,18.6,17.1,17.8,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,112,2,exposed,aggregated,1,BB_2024_Photo112_ind1,8.567,20.4,19.9,17.6,19.6,19.8,20.6,19.5,19.65,21,20.3,20.8,exposed on cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,112,2,partly exposed,aggregated,2,BB_2024_Photo112_ind2,4.216,18.8,19.3,19.6,17.6,NA,NA,18.83,18.83,21.5,20.5,21.1,on side of rock
+Bamfield,Brady's Beach,28-Jun-24,2,113,1,partly exposed,solitary,1,BB_2024_Photo113_ind1,9.491,18.4,19.7,19.4,18.9,NA,NA,19.33,19.1,22,20.7,21.3,half under two cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,114,1,exposed,solitary,1,BB_2024_Photo114_ind1,11.046,20.2,20.3,19.8,19.9,19.3,NA,19.83,19.9,19.9,19.1,19.6,animals tucked in between cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,115,3,shaded,aggregated,1,BB_2024_Photo115_ind1,9.373,15.4,15.4,15.6,15.4,15.5,NA,15.48,15.46,20.1,18.6,19.7,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,115,3,shaded,aggregated,2,BB_2024_Photo115_ind2,10.936,15.9,15.7,15.4,15.9,15.6,NA,15.65,15.7,16.3,15.9,16.1,under rock shelf
+Bamfield,Brady's Beach,28-Jun-24,2,116,1,shaded,solitary,1,BB_2024_Photo116_ind1,12.594,14.4,15.9,14.8,14.7,14.3,NA,14.93,14.82,18.3,17.6,17.9,animals tucked in between cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,117,2,shaded,aggregated,1,BB_2024_Photo117_ind1,9.117,13.6,13.6,13.2,13.9,13.6,NA,13.58,13.58,15.3,14.9,15.1,animals tucked in between cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,118,1,under rock,solitary,1,BB_2024_Photo118_ind1,5.623,16.8,16.9,17.2,16.8,16.6,NA,16.88,16.86,18.4,18.1,18.2,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,119,1,exposed,solitary,1,BB_2024_Photo119_ind1,5.605,17.5,17.5,16.5,16.5,17,16.9,16.88,16.98,16.6,16,16.4,exposed on cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,120,1,shaded,solitary,1,BB_2024_Photo120_ind1,5.182,15.8,17.6,16.2,15.7,15.6,NA,16.28,16.18,16.5,15.9,16.2,on top of sand
+Bamfield,Brady's Beach,28-Jun-24,2,121,1,shaded,solitary,1,BB_2024_Photo121_ind1,8.362,15.9,17.1,16.8,16.1,NA,NA,16.67,16.48,18.6,18,18.3,on side of rock
+Bamfield,Brady's Beach,28-Jun-24,2,122,1,exposed,solitary,1,BB_2024_Photo122_ind1,11.827,18.8,17.3,17.4,17.7,18.2,19.3,17.98,18.12,17.7,16.7,17.1,in between cobbles
+Bamfield,Brady's Beach,28-Jun-24,2,123,1,under rock,solitary,1,BB_2024_Photo123_ind1,3.297,18.5,19.4,18.9,19.7,18.8,20.2,19.4,19.25,22.9,22.6,22.8,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,124,2,under rock,solitary,1,BB_2024_Photo124_ind1,6.138,15.8,16.8,16.6,17.1,16.2,NA,16.68,16.5,19.4,18.4,19,rock was flipped over; can only see one star
+Bamfield,Brady's Beach,28-Jun-24,2,125,2,under rock,aggregated,1,BB_2024_Photo125_ind1,2.571,17.3,17.7,17.7,18.1,17.3,NA,17.7,17.62,19.7,19.3,19.5,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,125,2,under rock,aggregated,2,BB_2024_Photo125_ind2,4.835,17.4,17,17,16.9,17.7,17.3,17.18,17.22,19.9,18.9,19.5,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,126,1,under rock,solitary,1,BB_2024_Photo126_ind1,8.155,16,16.1,16,15.8,15.6,16.1,15.92,15.93,16.4,15.9,16.1,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,127,2,shaded,aggregated,1,BB_2024_Photo127_ind1,11.739,15.3,15.4,14.9,15.3,14.8,15.2,15.12,15.15,16.4,16.2,16.3,two arms touching water on oral side
+Bamfield,Brady's Beach,28-Jun-24,2,127,2,shaded,aggregated,2,BB_2024_Photo127_ind2,11.68,14.7,14.8,15.3,15,15.1,NA,15.05,14.98,15.6,15.3,15.4,on side of rock
+Bamfield,Brady's Beach,28-Jun-24,2,128,1,tidepool,solitary,1,BB_2024_Photo128_ind1,6.053,15.9,15.9,15.5,15.5,16.8,NA,15.93,15.92,16.3,15.9,16.1,half of animal in water
+Bamfield,Brady's Beach,28-Jun-24,2,129,2,under rock,aggregated,1,BB_2024_Photo129_ind1,5.686,17.2,17.3,17,17.9,17.6,16.9,17.34,17.32,22.2,20.6,21.9,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,129,2,under rock,aggregated,2,BB_2024_Photo129_ind2,4.477,17.9,17.9,18.3,18.1,18.3,NA,18.15,18.1,20.5,19.9,20.1,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,130,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see tips of arms - did not annotate
+Bamfield,Brady's Beach,28-Jun-24,2,131,1,under rock,solitary,1,BB_2024_Photo131_ind1,6.318,18.9,19.5,19.5,17.9,17.9,18.9,18.74,18.77,20,19.5,19.7,rock flipped over to reveal sea stars
+Bamfield,Brady's Beach,28-Jun-24,2,132,1,under rock,solitary,1,BB_2024_Photo132_ind1,4.561,18.3,18.4,18.5,18.3,18.8,18.9,18.58,18.53,22.9,20.4,21.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,1,1,under rock,solitary,1,BI_2024_Photo1_ind1,5.875,13.9,13.9,14.1,14.1,13.9,14.1,14.02,14,14.4,14.3,14.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,2,2,under rock,aggregated,1,BI_2024_Photo2_ind1,3.243,14.7,14.4,14.7,14.8,14.7,14.5,14.62,14.63,15.4,15.2,15.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,2,2,under rock,aggregated,2,BI_2024_Photo2_ind2,1.026,14.7,14.7,14.7,14.7,14.9,NA,14.75,14.74,15.1,14.9,15,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,3,1,under rock,solitary,1,BI_2024_Photo3_ind1,3.627,14.2,14.5,14.2,14.5,14.4,NA,14.4,14.36,14.8,14.2,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,4,7,under rock,aggregated,1,BI_2024_Photo4_ind1,2.032,14.9,14.7,14.7,14.9,15,14.7,14.8,14.82,14.8,14.6,14.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,4,7,under rock,aggregated,2,BI_2024_Photo4_ind2,2.332,14.5,14.5,14.7,14.4,14.3,14.4,14.46,14.47,14.9,14.6,14.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,4,7,under rock,aggregated,3,BI_2024_Photo4_ind3,5.55,14.4,14.6,14.7,14.2,NA,NA,14.5,14.48,14.6,14.4,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,4,7,under rock,aggregated,4,BI_2024_Photo4_ind4,9.236,14.5,14.4,14.5,14.4,14.1,14.2,14.32,14.35,14.7,14.3,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,4,7,under rock,aggregated,5,BI_2024_Photo4_ind5,2.716,14.6,14.5,14.5,14.4,14.4,NA,14.45,14.48,14.5,14.3,14.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,5,1,under rock,solitary,1,BI_2024_Photo5_ind1,4.578,14.2,14.1,14,14.1,NA,NA,14.07,14.1,14,13.7,13.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,6,1,under rock,solitary,1,BI_2024_Photo6_ind1,2.893,13.6,13.6,13.7,13.9,13.7,13.7,13.72,13.7,13.6,13.4,13.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,7,1,under rock,solitary,1,BI_2024_Photo7_ind1,8.842,13.7,13.6,13.9,13.7,13.3,13.5,13.6,13.62,14,13.6,13.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,8,1,under rock,solitary,1,BI_2024_Photo8_ind1,3.514,14.3,14.3,14.4,14.3,14.2,14.3,14.3,14.3,14.4,14.1,14.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,9,7,shaded,aggregated,1,BI_2024_Photo9_ind1,4.631,13.8,13.7,13.8,13.9,NA,NA,13.8,13.8,14,13.8,13.9,under rock shelf
+Bamfield,Bamfield Inlet,27-Jun-24,1,9,7,shaded,aggregated,2,BI_2024_Photo9_ind2,4.714,13.8,14,14,13.8,NA,NA,13.93,13.9,14,13.8,13.9,under rock shelf
+Bamfield,Bamfield Inlet,27-Jun-24,1,9,7,shaded,aggregated,3,BI_2024_Photo9_ind3,2.061,13.6,13.8,13.9,14,13.8,NA,13.88,13.82,14.1,13.9,14,under rock shelf
+Bamfield,Bamfield Inlet,27-Jun-24,1,10,2,under rock,aggregated,1,BI_2024_Photo10_ind1,5.659,14.2,14.1,14.1,14.4,14.4,14.1,14.22,14.22,14.9,14.7,14.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,10,2,under rock,aggregated,2,BI_2024_Photo10_ind2,1.812,13.9,14,14,14.2,14,14,14.04,14.02,14.3,14.1,14.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,11,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,in between rocks; too shaded - did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,1,12,1,under rock,solitary,1,BI_2024_Photo12_ind1,2.52,13.5,13.5,13.9,14,13.6,13.3,13.66,13.63,14.2,13.8,13.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,13,1,under rock,solitary,1,BI_2024_Photo13_ind1,3.07,13.6,13.4,13.1,13.1,13.4,NA,13.25,13.32,13.6,13.3,13.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,14,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see marks on ruler - did not annotate because animal couldn't be sized
+Bamfield,Bamfield Inlet,27-Jun-24,1,15,1,shaded,solitary,1,BI_2024_Photo15_ind1,16.81,14.6,14.7,14.6,14.2,NA,NA,14.5,14.53,14.6,14.3,14.4,under rock shelf
+Bamfield,Bamfield Inlet,27-Jun-24,1,16,1,under rock,solitary,1,BI_2024_Photo16_ind1,2.51,14.5,14.4,14.4,14.5,14.5,14.6,14.48,14.48,14.8,14.4,14.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,17,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc - did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,1,18,3,under rock,aggregated,1,BI_2024_Photo18_ind1,8.832,14.3,14.1,14.1,14,14.3,14.1,14.12,14.15,14.4,14.1,14.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,18,3,under rock,aggregated,2,BI_2024_Photo18_ind2,4.452,14.3,14.2,14.4,14.9,14.5,NA,14.5,14.46,14.9,14.7,14.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,18,3,under rock,aggregated,3,BI_2024_Photo18_ind3,2.204,14.7,14.7,14.8,15.2,14.9,NA,14.9,14.86,14.9,14.4,14.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,19,3,under rock,aggregated,1,BI_2024_Photo19_ind1,10.846,14.3,14.7,14.5,14.4,14.3,14.7,14.52,14.48,15.2,15,15.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,19,3,under rock,aggregated,2,BI_2024_Photo19_ind2,2.664,14.8,14.7,14.8,15,14.7,14.6,14.76,14.77,15.3,15,15.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,19,3,under rock,aggregated,3,BI_2024_Photo19_ind3,4.093,14.5,14.5,14.8,14.9,14.9,14.8,14.78,14.73,15.5,15.4,15.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,20,1,under rock,solitary,1,BI_2024_Photo20_ind1,11.262,12.9,13.4,13.1,13.1,13.4,NA,13.25,13.18,13.2,12.9,13,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,21,1,under rock,solitary,1,BI_2024_Photo21_ind1,3.168,13.2,13,13,13.3,13.2,13.3,13.16,13.17,13.3,13,13.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,22,3,hole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animals too deep in crevice - did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,1,23,2,under rock,aggregated,1,BI_2024_Photo23_ind1,8.003,15,15,15.1,14.9,15.2,15.5,15.14,15.12,16,15.6,15.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,23,2,under rock,aggregated,2,BI_2024_Photo23_ind2,10.55,15.2,14.8,15.1,14.9,14.9,NA,14.93,14.98,15.7,15.5,15.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,24,2,exposed,solitary,1,BI_2024_Photo24_ind1,3.13,15.2,15,14.7,14.9,15.2,15.6,15.08,15.1,15.6,15.2,15.5,exposed on cobbles and oysters; cannot see second sea star
+Bamfield,Bamfield Inlet,27-Jun-24,1,25,1,under rock,solitary,1,BI_2024_Photo25_ind1,3.181,14.6,15.5,15.1,15,15,NA,15.15,15.04,15.5,15.3,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,26,1,under rock,solitary,1,BI_2024_Photo26_ind1,1.802,14.7,14.5,14.9,15.1,14.8,14.4,14.74,14.73,14.9,14.5,14.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,27,4,under rock,aggregated,1,BI_2024_Photo27_ind1,8.435,13.3,13.4,13.2,12.9,12.7,12.9,13.02,13.07,13.8,13.7,13.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,27,4,under rock,aggregated,2,BI_2024_Photo27_ind2,2.182,13.2,13.2,13.1,13.4,13.2,NA,13.23,13.22,13.5,13.2,13.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,27,4,under rock,aggregated,3,BI_2024_Photo27_ind3,3.02,12.9,13,13.3,NA,NA,NA,13.15,13.07,13.6,13.3,13.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,27,4,under rock,aggregated,4,BI_2024_Photo27_ind4,1.421,13.4,13.3,13.4,NA,NA,NA,13.35,13.37,13.8,13.4,13.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,28,1,under rock,aggregated,1,BI_2024_Photo28_ind1,3.05,13.5,13.3,13.2,13.5,13.8,13.5,13.46,13.47,13.8,13.4,13.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,29,4,under rock,aggregated,1,BI_2024_Photo29_ind1,8.689,14.2,14.3,14.2,14.1,14.2,NA,14.2,14.2,14.7,14.5,14.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,29,4,under rock,aggregated,2,BI_2024_Photo29_ind2,8.389,13.9,14.1,14.1,14.3,NA,NA,14.17,14.1,14.3,14,14.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,29,4,under rock,aggregated,3,BI_2024_Photo29_ind3,6.843,14.4,14,14.2,14.2,14.2,NA,14.15,14.2,14.6,14.4,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,29,4,under rock,aggregated,4,BI_2024_Photo29_ind4,8.088,14.5,14.5,14.7,14.3,NA,NA,14.5,14.5,15.5,14.9,15.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,30,1,under rock,solitary,1,BI_2024_Photo30_ind1,2.245,14.6,15.1,15.1,14.8,14.7,14.7,14.88,14.83,15.1,14.8,14.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,31,1,partly exposed,solitary,1,BI_2024_Photo31_ind1,4.286,14.7,14.7,14.8,14.5,NA,NA,14.67,14.68,15,14.3,14.5,partially under cobbles
+Bamfield,Bamfield Inlet,27-Jun-24,1,32,1,under rock,solitary,1,BI_2024_Photo32_ind1,8.105,15.7,15.5,15.5,15.5,15.4,15.7,15.52,15.55,15.5,15.1,15.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,1,BI_2024_Photo33_ind1,5.107,15.3,15.5,15.7,15.2,NA,NA,15.47,15.43,15.4,15.3,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,2,BI_2024_Photo33_ind2,4.995,15.2,15.5,15.5,15.4,15.2,NA,15.4,15.36,16.1,15.3,15.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,3,BI_2024_Photo33_ind3,5.674,15.7,15.5,15.7,15.7,15.8,15.8,15.7,15.7,15.4,15.2,15.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,4,BI_2024_Photo33_ind4,3.145,16,15.7,15.7,15.7,15.6,15.7,15.68,15.73,16,15.8,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,5,BI_2024_Photo33_ind5,2.713,16.1,15.5,15.9,16,15.8,NA,15.8,15.86,15.8,15.6,15.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,6,BI_2024_Photo33_ind6,3.013,15.9,15.8,15.9,15.7,NA,NA,15.8,15.83,16,15.9,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,7,BI_2024_Photo33_ind7,3.022,16.2,15.8,15.8,15.8,16.3,16,15.94,15.98,16.3,16,16.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,33,8,under rock,aggregated,8,BI_2024_Photo33_ind8,4.078,15.9,16,15.9,15.9,NA,NA,15.93,15.93,16.2,15.9,16.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,34,3,under rock,aggregated,1,BI_2024_Photo34_ind1,3.751,15.2,15.4,15,15.2,15.2,15.3,15.22,15.22,15.5,15.2,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,34,3,under rock,aggregated,2,BI_2024_Photo34_ind2,2.702,15.3,15.3,15.1,15.1,NA,NA,15.17,15.2,15.4,15,15.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,34,3,under rock,aggregated,3,BI_2024_Photo34_ind3,2.261,15.3,15.4,15.1,15.4,15.3,NA,15.3,15.3,15.5,15.3,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,35,5,under rock,aggregated,1,BI_2024_Photo35_ind1,11.297,15.8,16,16,15.2,15.6,15.8,15.72,15.73,15.8,15.4,15.6,Two stars very small and not annoated; could be mottled stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,35,5,under rock,aggregated,2,BI_2024_Photo35_ind2,3.773,15.6,15.6,15.5,15.6,15.5,NA,15.55,15.56,16,15.5,15.8,Two stars very small and not annoated; could be mottled stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,35,5,under rock,aggregated,3,BI_2024_Photo35_ind3,2.472,15.6,15.5,15.6,15.6,15.4,NA,15.53,15.54,15.8,15.7,15.7,Two stars very small and not annoated; could be mottled stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,35,5,under rock,aggregated,4,BI_2024_Photo35_ind4,2.268,15.6,15.5,15.6,15.8,15.8,15.6,15.66,15.65,15.9,15.8,15.9,Two stars very small and not annoated; could be mottled stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,36,3,under rock,aggregated,1,BI_2024_Photo36_ind1,1.446,16.3,16.1,16.3,16.4,15.9,15.5,16.04,16.08,16.2,16,16.1,two annotated; the one upsidedown was not annotated
+Bamfield,Bamfield Inlet,27-Jun-24,1,36,3,under rock,aggregated,2,BI_2024_Photo36_ind2,1.752,15.6,15.8,15.9,15.7,15.4,15.6,15.68,15.67,16.1,15.9,16,two annotated; the one upsidedown was not annotated
+Bamfield,Bamfield Inlet,27-Jun-24,1,37,3,under rock,aggregated,1,BI_2024_Photo37_ind1,10.08,14.1,14.6,14.7,13.6,13.5,13.9,14.06,14.07,14.2,14.1,14.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,37,3,under rock,aggregated,2,BI_2024_Photo37_ind2,6.573,13.8,14.2,14.2,14.1,13.6,14,14.02,13.98,14.9,14.5,14.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,37,3,under rock,solitary,3,BI_2024_Photo37_ind3,11.252,13.6,14.2,13.8,13.9,13.9,NA,13.95,13.88,14,13.7,13.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,38,6,under rock,aggregated,1,BI_2024_Photo38_ind1,8.105,14.9,15.2,15.2,14.7,14.5,NA,14.9,14.9,14.9,14.7,14.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,38,6,under rock,aggregated,2,BI_2024_Photo38_ind2,3.475,15,14.8,14.8,14.6,15.2,14.6,14.8,14.83,14.6,14.4,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,38,6,under rock,aggregated,3,BI_2024_Photo38_ind3,4.821,15,15,15,14.9,14.7,15,14.92,14.93,14.8,14.6,14.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,38,6,under rock,aggregated,4,BI_2024_Photo38_ind4,4.315,14.7,14.3,14.5,14.5,14.7,14.8,14.56,14.58,14.6,14.4,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,38,6,under rock,aggregated,5,BI_2024_Photo38_ind5,3.291,14.5,14.5,14.4,14.5,14.4,NA,14.45,14.46,14.5,14.2,14.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,38,6,under rock,solitary,6,BI_2024_Photo38_ind6,7.486,14.3,14.6,14.5,14.9,NA,NA,14.67,14.58,14.4,13.9,14.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,39,5,under rock,aggregated,1,BI_2024_Photo39_ind1,3.612,13.8,13.6,13.5,13.5,13.6,13.8,13.6,13.63,14.5,13.5,14.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,39,5,under rock,aggregated,2,BI_2024_Photo39_ind2,3.13,13.7,13.8,13.8,13.7,14,14,13.86,13.83,14.4,14.1,14.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,39,5,under rock,aggregated,3,BI_2024_Photo39_ind3,4.491,13.3,13.5,13.6,13.5,13.7,NA,13.58,13.52,15,13.7,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,39,5,under rock,aggregated,4,BI_2024_Photo39_ind4,4.081,13.6,14.1,14,13.6,13.5,NA,13.8,13.76,14.5,14.1,14.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,39,5,under rock,aggregated,5,BI_2024_Photo39_ind5,2.499,14,13.9,13.6,13.6,14.1,14.1,13.86,13.88,14.1,13.5,13.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,40,2,under rock,aggregated,1,BI_2024_Photo40_ind1,5.464,15.2,15.4,14.7,14.3,14.8,NA,14.8,14.88,15.3,14.9,15.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,40,2,under rock,aggregated,2,BI_2024_Photo40_ind2,7.636,14.8,14.8,15.1,14.6,15,15.9,15.08,15.03,16.1,15.7,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,41,1,under rock,solitary,1,BI_2024_Photo41_ind1,6.86,14.9,14.9,15.5,15,14.9,15.1,15.08,15.05,16.7,16.3,16.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,42,1,under rock,solitary,1,BI_2024_Photo42_ind1,6.416,15,15,15.4,15.4,15.2,15.2,15.24,15.2,15.9,15.7,15.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,43,1,under rock,solitary,1,BI_2024_Photo43_ind1,3.437,14.3,14.4,14.7,14.4,14.2,14.1,14.36,14.35,14.1,13.9,14,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,44,1,exposed,solitary,1,BI_2024_Photo44_ind1,12.118,16.8,15.9,16.4,16.7,15.7,16,16.14,16.25,15.8,14.8,15,exposed on cobbles
+Bamfield,Bamfield Inlet,27-Jun-24,1,45,1,under rock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Photo really blurry; can't see central disc clearly
+Bamfield,Bamfield Inlet,27-Jun-24,1,46,1,under rock,solitary,1,BI_2024_Photo46_ind1,3.993,13.8,14.1,14,13.9,14,14.1,14.02,13.98,14.5,14.1,14.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,47,2,exposed,solitary,1,BI_2024_Photo47_ind1,3.103,15.3,15.4,15.4,15.3,15.5,15.7,15.46,15.43,15.6,15.2,15.4,one ochre star and one unidentified star
+Bamfield,Bamfield Inlet,27-Jun-24,1,48,1,under rock,solitary,1,BI_2024_Photo48_ind1,4.023,14.6,14.4,14.8,14.5,15,NA,14.68,14.66,15,14.5,14.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,49,2,under rock,solitary,1,BI_2024_Photo49_ind1,9.512,15.8,15.8,15.2,16.1,15.8,15.5,15.68,15.7,17,15.6,16.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,49,2,under rock,solitary,2,BI_2024_Photo49_ind2,6.754,14.7,15.6,15.2,14.5,14.1,NA,14.85,14.82,14,13.8,13.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,50,1,under rock,solitary,1,BI_2024_Photo50_ind1,6.587,16.4,16.4,16.3,16.7,16.8,17.1,16.66,16.62,18.3,17.9,18,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,51,3,under rock,aggregated,1,BI_2024_Photo51_ind1,6.742,14.1,14.2,14.2,14,14.5,14.4,14.26,14.23,14.8,14.4,14.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,51,3,under rock,aggregated,2,BI_2024_Photo51_ind2,2.453,14.2,14.2,14.2,14.1,14.4,14.3,14.24,14.23,14.6,14.4,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,51,3,under rock,aggregated,3,BI_2024_Photo51_ind2,1.118,14,14,14,14.1,NA,NA,14.03,14.03,14.4,14.2,14.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,52,1,under rock,solitary,1,BI_2024_Photo52_ind1,5.305,14.9,15.3,15.1,15.1,14.9,15.4,15.16,15.12,15.5,15.4,15.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,53,3,under rock,aggregated,1,BI_2024_Photo53_ind1,3.207,15.5,15.8,15.6,15.6,15.7,NA,15.68,15.64,16.2,16,16.1,not sure if third animal is ochre star; did not annotate that one
+Bamfield,Bamfield Inlet,27-Jun-24,1,53,3,under rock,solitary,2,BI_2024_Photo53_ind2,3.745,14.8,15,15,15.4,15.6,NA,15.25,15.16,15.6,15.3,15.5,not sure if third animal is ochre star; did not annotate that one
+Bamfield,Bamfield Inlet,27-Jun-24,1,54,1,shaded,solitary,1,BI_2024_Photo54_ind1,4.911,15.2,15.5,15.3,15.6,15.5,NA,15.48,15.42,16,15.6,15.8,under rock shelf
+Bamfield,Bamfield Inlet,27-Jun-24,1,55,1,exposed,solitary,1,BI_2024_Photo55_ind1,7.241,16.6,15.6,17.1,17.2,17,16.7,16.72,16.7,17.6,17.2,17.4,exposed on side of a rock
+Bamfield,Bamfield Inlet,27-Jun-24,1,56,2,under rock,aggregated,1,BI_2024_Photo56_ind1,4.627,15.1,15.2,15.4,15.1,14.8,15,15.1,15.1,16.8,16.3,16.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,56,2,under rock,aggregated,2,BI_2024_Photo56_ind2,4.099,15.6,15.7,15.6,15.8,15.5,15.2,15.56,15.57,16.9,16.5,16.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,57,2,under rock,aggregated,1,BI_2024_Photo57_ind1,1.627,15.2,15.5,15.1,15.9,15.8,16,15.66,15.58,17.2,16.7,17,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,57,2,under rock,aggregated,2,BI_2024_Photo57_ind2,2.025,15.3,16.4,16.2,16,15.6,NA,16.05,15.9,16.7,16.3,16.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,58,1,shaded,solitary,1,BI_2024_Photo58_ind1,10.038,16.2,16.4,15.6,15.9,NA,NA,15.97,16.03,16.2,15.6,16,on side of rock
+Bamfield,Bamfield Inlet,27-Jun-24,1,59,2,under rock,aggregated,1,BI_2024_Photo59_ind1,4.172,16.1,16.4,16.1,16.1,16.1,16,16.14,16.13,17.6,17.3,17.5,animals surrounded by oysters
+Bamfield,Bamfield Inlet,27-Jun-24,1,59,2,under rock,aggregated,2,BI_2024_Photo59_ind2,2.361,16.5,16.4,16.5,16.5,16.6,16.5,16.5,16.5,17.5,17.1,17.3,animals surrounded by oysters
+Bamfield,Bamfield Inlet,27-Jun-24,1,60,1,under rock,solitary,1,BI_2024_Photo60_ind1,2.335,14.9,14.4,14.8,15.2,14.7,14.5,14.72,14.75,15.6,15.2,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,1,61,1,under rock,solitary,1,BI_2024_Photo61_ind1,5.74,16.3,15.7,16.3,15.8,15.8,15.2,15.76,15.85,15.7,15.4,15.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,62,3,under rock,aggregated,1,BI_2024_Photo62_ind1,7.406,15.9,15.7,15.9,15.6,16.1,15.7,15.8,15.82,17.9,17.5,17.7,two individuals have weird white spots - could be a sign of wasting/heat stress?
+Bamfield,Bamfield Inlet,27-Jun-24,2,62,3,under rock,aggregated,2,BI_2024_Photo62_ind2,6.158,15.9,16,15.9,15.7,15.8,15.7,15.82,15.83,16.3,16,16.1,two individuals have weird white spots - could be a sign of wasting/heat stress?
+Bamfield,Bamfield Inlet,27-Jun-24,2,62,3,under rock,aggregated,3,BI_2024_Photo62_ind3,4.518,16.2,15.9,16.1,15.9,16.5,16.7,16.22,16.22,16.2,15.9,16.1,two individuals have weird white spots - could be a sign of wasting/heat stress?
+Bamfield,Bamfield Inlet,27-Jun-24,2,63,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,unclear where central disc/end of arms are - did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,2,64,2,under rock,aggregated,1,BI_2024_Photo64_ind1,10.361,15.7,15.7,15.6,15.9,15.5,15.5,15.64,15.65,15.6,15.4,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,64,2,under rock,aggregated,2,BI_2024_Photo64_ind2,6.246,15.3,15.7,15.6,NA,NA,NA,15.65,15.53,16.2,16,16.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,65,1,under rock,solitary,1,BI_2024_Photo65_ind1,10.582,16.3,16.4,15.9,15.5,15.9,16.2,15.98,16.03,16.5,16.2,16.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,1,BI_2024_Photo66_ind1,9.037,16.5,17.2,16.8,15.7,15.4,NA,16.28,16.32,18.3,17.6,17.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,2,BI_2024_Photo66_ind2,8.306,16.2,16.5,16.4,15.4,15.6,NA,15.98,16.02,16.7,15.9,16.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,3,BI_2024_Photo66_ind3,6.932,15.5,16.2,15.7,15.5,NA,NA,15.8,15.73,17.1,16.6,16.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,4,BI_2024_Photo66_ind4,5.514,15.8,16,16.4,16.3,16.3,15.4,16.08,16.03,17.2,16.7,17,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,5,BI_2024_Photo66_ind5,2.664,15.7,15.7,15.8,15.9,16,NA,15.85,15.82,16.6,16.3,16.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,6,BI_2024_Photo66_ind6,3.246,15.3,15.7,15.7,15.9,NA,NA,15.77,15.65,16.4,16,16.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,66,7,under rock,aggregated,7,BI_2024_Photo66_ind7,3.747,15.6,15.6,15.9,NA,NA,NA,15.75,15.7,16.2,15.8,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,67,2,under rock,aggregated,1,BI_2024_Photo67_ind1,9.346,15.5,15.6,15.4,14.7,16.6,15.5,15.56,15.55,16.6,16.3,16.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,67,2,under rock,aggregated,2,BI_2024_Photo67_ind2,8.131,14.5,14.8,14.3,14.7,14.4,NA,14.55,14.54,14.7,14.3,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,68,1,under rock,solitary,1,BI_2024_Photo68_ind1,7.327,15.6,15.8,15.7,15.7,15.5,NA,15.68,15.66,16.2,15.6,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,1,BI_2024_Photo69_ind1,9.508,15.8,16.1,15.7,14.9,NA,NA,15.57,15.63,16.3,16,16.2,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,2,BI_2024_Photo69_ind2,7.556,15.2,15,15.4,15.2,15,NA,15.15,15.16,15.8,15.5,15.6,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,3,BI_2024_Photo69_ind3,4.976,15.1,15.3,15.6,NA,NA,NA,15.45,15.33,15.6,14.9,15.2,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,4,BI_2024_Photo69_ind4,4.227,14.9,14.9,15.2,15.1,14.9,NA,15.03,15,15.6,15.2,15.4,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,5,BI_2024_Photo69_ind5,8.587,15.2,15.1,15.2,15.1,NA,NA,15.13,15.15,15.4,15.2,15.3,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,6,BI_2024_Photo69_ind6,8.317,14.9,14.9,15.3,15.2,NA,NA,15.13,15.08,16,15.5,15.7,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,69,8,under rock,aggregated,7,BI_2024_Photo69_ind7,6.813,15.1,15.5,15.4,15.7,NA,NA,15.53,15.43,15.8,15.5,15.6,one star was not annotated as it was upside-down
+Bamfield,Bamfield Inlet,27-Jun-24,2,70,2,under rock,aggregated,1,BI_2024_Photo70_ind1,3.999,15.7,15.5,16,15.9,15.8,NA,15.8,15.78,16.9,16.1,16.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,70,2,under rock,aggregated,2,BI_2024_Photo70_ind2,3.786,15.4,15.6,15.5,15.8,16,15.7,15.72,15.67,16.4,15.9,16.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,71,2,under rock,aggregated,1,BI_2024_Photo71_ind1,7.123,16.4,16.5,16.3,16.2,16.3,16.3,16.32,16.33,17.2,16.8,16.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,71,2,under rock,aggregated,2,BI_2024_Photo71_ind2,4.259,16.2,16.6,16.4,16.8,16.7,16.7,16.64,16.57,17.8,17.5,17.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,72,1,exposed,solitary,1,BI_2024_Photo72_ind1,8.489,18.4,17.2,20.2,18.6,17.3,17.2,18.1,18.15,18.1,17.8,17.9,exposed on barnacle chips and cobbles
+Bamfield,Bamfield Inlet,27-Jun-24,2,73,2,shaded,aggregated,1,BI_2024_Photo73_ind1,7.838,14.3,14.6,14.6,14.3,NA,NA,14.5,14.45,15.4,15.1,15.2,under rock shelf; only one annotated (visible central disc and arm length clear)
+Bamfield,Bamfield Inlet,27-Jun-24,2,74,3,under rock,aggregated,1,BI_2024_Photo74_ind1,10.474,14.4,14.7,14.4,15.3,14.9,14.7,14.8,14.73,15.7,15.2,15.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,74,3,under rock,aggregated,2,BI_2024_Photo74_ind2,4.057,14.7,14.5,14.7,14.4,14.6,NA,14.55,14.58,15.5,14.8,15.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,74,3,under rock,aggregated,3,BI_2024_Photo74_ind3,5.156,14.6,14.6,14.5,14.9,14.7,NA,14.68,14.66,15.3,15.2,15.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,75,1,under rock,solitary,1,BI_2024_Photo75_ind1,8.597,13.6,13.7,13.6,14.3,13.6,13.5,13.74,13.72,14.6,14.2,14.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,76,1,under rock,solitary,1,BI_2024_Photo76_ind1,8.748,14.5,14.7,14.9,15.3,15,15.2,15.02,14.93,18.7,17.8,18.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,77,1,under rock,solitary,1,BI_2024_Photo77_ind1,4.766,16.1,16.6,16.6,16.6,16.6,16.8,16.64,16.55,17.6,17.3,17.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,78,2,under rock,aggregated,1,BI_2024_Photo78_ind1,5.874,17.8,17.6,17.6,17.1,17.4,18,17.54,17.58,19.5,19.1,19.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,78,2,under rock,aggregated,2,BI_2024_Photo78_ind2,4.282,18,18.1,18.3,18.3,17.6,18.3,18.12,18.1,18.8,18.7,18.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,79,5,under rock,aggregated,1,BI_2024_Photo79_ind1,10.066,17.1,17.2,16.8,17.2,17.5,NA,17.18,17.16,21.9,21.4,21.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,79,5,under rock,aggregated,2,BI_2024_Photo79_ind2,11.93,16.6,16.7,16.6,16.8,16.4,16.5,16.6,16.6,20.6,20.3,20.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,79,5,under rock,aggregated,3,BI_2024_Photo79_ind3,8.814,16,16.3,16.3,16.2,16.7,NA,16.38,16.3,20.6,20,20.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,79,5,under rock,aggregated,4,BI_2024_Photo79_ind4,7.385,16.9,16.9,16.6,16.8,16.3,16.9,16.7,16.73,19.6,18.7,18.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,79,5,under rock,aggregated,5,BI_2024_Photo79_ind5,5.521,17.3,17.3,17.3,17.7,17,17.7,17.4,17.38,19.8,19.2,19.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,80,2,under rock,aggregated,1,BI_2024_Photo80_ind1,7.449,16.6,17,16.3,16,16.1,16.3,16.34,16.38,16.3,15.8,16.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,80,2,under rock,aggregated,2,BI_2024_Photo80_ind2,11.272,17,16.4,16.8,16.1,15.9,16.5,16.34,16.45,16,15.5,15.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,81,1,under rock,solitary,1,BI_2024_Photo81_ind1,7.021,14.7,15,14.2,14.3,14.9,14.7,14.62,14.63,14.5,14.2,14.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,82,2,under rock,aggregated,1,BI_2024_Photo82_ind1,2.697,15.2,15.7,15.5,15.5,15.4,15.1,15.44,15.4,16.2,15.6,16,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,82,2,under rock,aggregated,2,BI_2024_Photo82_ind2,5.211,15.1,14.8,15.2,15.1,15.2,15.2,15.1,15.1,16.1,15.7,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,83,1,under rock,solitary,1,BI_2024_Photo83_ind1,11.276,16.2,16.4,17.3,16.6,16.8,17.1,16.84,16.73,18.6,18.4,18.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,84,1,under rock,solitary,1,BI_2024_Photo84_ind1,4.876,16.9,17.6,17.4,17.4,17,16.9,17.26,17.2,18.3,18,18.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,85,2,under rock,aggregated,1,BI_2024_Photo85_ind1,3.929,16.6,17,17.4,16.7,16.9,NA,17,16.92,18,17.4,17.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,85,2,under rock,aggregated,2,BI_2024_Photo85_ind2,8.538,16.3,16.8,16.5,16.6,16.6,16.9,16.68,16.62,19.2,18.8,19,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,86,1,under rock,solitary,1,BI_2024_Photo86_ind1,11.198,15.9,16.2,15.9,15.9,16.5,16.6,16.22,16.17,17.5,17.2,17.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,87,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot for sure tell where central disc and tip of arms are
+Bamfield,Bamfield Inlet,27-Jun-24,2,88,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Animal too shaded - did no annotate (can't see central disc)
+Bamfield,Bamfield Inlet,27-Jun-24,2,89,2,under rock,aggregated,1,BI_2024_Photo89_ind1,12.175,15,14.2,14.2,14.8,16.4,15.5,15.02,15.02,16.1,15.3,15.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,89,2,under rock,aggregated,2,BI_2024_Photo89_ind2,2.779,14.7,14.8,14.7,14.8,14.8,14.8,14.78,14.77,15.4,15.1,15.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,90,1,under rock,solitary,1,BI_2024_Photo90_ind1,4.113,14.5,14.2,14.6,14.3,14.2,14.3,14.32,14.35,15.4,14.9,15.1,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,91,1,tidepool,solitary,1,BI_2024_Photo91_ind1,3.677,16.6,16.9,16.8,16.8,16.4,16.4,16.66,16.65,17.5,16.8,17,animal underneath a rock that was in a tidepool
+Bamfield,Bamfield Inlet,27-Jun-24,2,92,1,tidepool,solitary,1,BI_2024_Photo92_ind1,3.484,16.3,16.5,16.8,16.7,16.5,16.5,16.6,16.55,17.1,16.9,17,animal underneath a rock that was in a tidepool
+Bamfield,Bamfield Inlet,27-Jun-24,2,93,1,under rock,solitary,1,BI_2024_Photo93_ind1,8.246,14.4,14.5,14.4,14.3,15,14.5,14.54,14.52,15.9,15.7,15.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,94,1,under rock,solitary,1,BI_2024_Photo94_ind1,9.841,15.2,14.7,15.4,15.2,15.2,NA,15.13,15.14,16.3,16,16.2,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,95,1,under rock,solitary,1,BI_2024_Photo95_ind1,3.69,19.5,19.3,20.5,20.4,20.6,19.5,20.06,19.97,21.5,21,21.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,96,1,under rock,solitary,1,BI_2024_Photo96_ind1,2.398,18,18,17.6,17,17.6,17.9,17.62,17.68,19.5,18.8,19,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,97,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,animal not shaded - did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,2,98,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot use ruler for scale :( did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,2,99,2,under rock,solitary,1,BI_2024_Photo99_ind1,6.097,15.6,15.8,15.9,16.1,15.8,15.3,15.78,15.75,16,15.6,15.8,only one animal annotated - other flipped over
+Bamfield,Bamfield Inlet,27-Jun-24,2,100,1,under rock,solitary,1,BI_2024_Photo100_ind1,3.656,16,16.3,16.2,16,15.7,16.2,16.08,16.07,17.3,16.8,16.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,101,4,under rock,aggregated,1,BI_2024_Photo101_ind1,3.343,17,16.9,16.7,16.7,16.7,16.4,16.68,16.73,17.2,16.6,16.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,101,4,under rock,aggregated,2,BI_2024_Photo101_ind2,4.193,16.3,16.6,16.3,16.5,16.1,16.3,16.36,16.35,16.8,16.4,16.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,101,4,under rock,aggregated,3,BI_2024_Photo101_ind3,1.772,16.6,16.6,16.8,16.8,16.5,17.1,16.76,16.73,17.5,17.1,17.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,101,4,under rock,aggregated,4,BI_2024_Photo101_ind4,1.539,17.1,17.1,17.1,17.4,17.1,17.3,17.2,17.18,18,17.8,17.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,102,3,under rock,aggregated,1,BI_2024_Photo102_ind1,3.573,15.8,15.8,16.1,16.3,15.9,15.7,15.96,15.93,15.9,15.2,15.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,102,3,under rock,aggregated,2,BI_2024_Photo102_ind2,1.918,16.7,16.6,16.4,16.4,17.2,NA,16.65,16.66,17.5,17.3,17.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,102,3,under rock,aggregated,3,BI_2024_Photo102_ind3,1.709,16.4,16.8,16.6,16.1,16.2,16.8,16.5,16.48,17.2,16.4,16.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,103,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc or tip of arms - did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,2,104,1,under rock,solitary,1,BI_2024_Photo104_ind1,5.25,16.1,15.9,15.9,16,15.6,15.8,15.84,15.88,16.1,15.7,15.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,105,3,under rock,aggregated,1,BI_2024_Photo105_ind1,2.761,16.6,16.4,16.5,16.5,16.3,16.5,16.44,16.47,17.9,17.7,17.8,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,105,3,under rock,aggregated,2,BI_2024_Photo105_ind2,4.058,16.2,15.8,16.3,16,16.2,15.9,16.04,16.07,18.5,18.3,18.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,105,3,under rock,aggregated,3,BI_2024_Photo105_ind3,8.648,16,15.9,16,16.2,16.7,NA,16.2,16.16,19.6,19,19.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,106,1,kelp,solitary,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc - covered in fucus
+Bamfield,Bamfield Inlet,27-Jun-24,2,107,2,under rock,aggregated,1,BI_2024_Photo107_ind1,9.96,15.5,16.5,15.2,16,16,NA,15.93,15.84,15.5,15.3,15.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,107,2,under rock,aggregated,2,BI_2024_Photo107_ind2,2.207,18.3,18.7,18.1,17.5,17.8,NA,18.03,18.08,17.7,17.4,17.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,108,3,under rock,aggregated,1,BI_2024_Photo108_ind1,1.955,17.2,17.7,17.9,17.7,17.7,17.6,17.72,17.63,19.4,19,19.2,one was not annotated because it was hard to see - very shaded
+Bamfield,Bamfield Inlet,27-Jun-24,2,108,3,under rock,aggregated,2,BI_2024_Photo108_ind2,2.17,17.4,17.7,17.1,17.4,17.8,17.6,17.52,17.5,19.1,18.7,18.9,one was not annotated because it was hard to see - very shaded
+Bamfield,Bamfield Inlet,27-Jun-24,2,109,4,under rock,aggregated,1,BI_2024_Photo109_ind1,9.26,16.9,17.2,17.9,17.8,17.2,17,17.42,17.33,21.6,20.5,20.7,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,109,4,under rock,aggregated,2,BI_2024_Photo109_ind2,4.994,16.6,17.3,17.1,16.8,16.8,17.2,17.04,16.97,20.8,19.9,20.3,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,109,4,under rock,aggregated,3,BI_2024_Photo109_ind3,3.42,17.7,17.6,17.4,18.1,17.8,18.4,17.86,17.83,20.8,20.1,20.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,110,3,under rock,aggregated,1,BI_2024_Photo110_ind1,4.618,16.5,16.5,16.2,16.1,16.3,NA,16.28,16.32,16.7,16.2,16.5,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,110,3,under rock,aggregated,2,BI_2024_Photo110_ind2,1.795,16.3,16.4,16.7,16.6,NA,NA,16.57,16.5,17.6,17.1,17.4,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,110,3,under rock,aggregated,3,BI_2024_Photo110_ind3,1.859,16.2,16.2,16.1,16.6,NA,NA,16.3,16.28,16.9,16.2,16.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,111,8,under rock,aggregated,1,BI_2024_Photo111_ind1,5.656,16.4,16.4,15.9,16,16.1,16.6,16.2,16.23,17.2,16.8,16.9,annotate the 5 I was sure were ochre stars - did not annotate remaining 3 (two on top and one baby in middle)
+Bamfield,Bamfield Inlet,27-Jun-24,2,111,8,under rock,aggregated,2,BI_2024_Photo111_ind2,3.308,16.1,16.4,16.4,16.1,16.2,NA,16.28,16.24,17.3,16.8,17,annotate the 5 I was sure were ochre stars - did not annotate remaining 3 (two on top and one baby in middle)
+Bamfield,Bamfield Inlet,27-Jun-24,2,111,8,under rock,aggregated,3,BI_2024_Photo111_ind3,1.561,16.3,16.6,16.5,16.5,16.7,16.7,16.6,16.55,17.3,17.1,17.2,annotate the 5 I was sure were ochre stars - did not annotate remaining 3 (two on top and one baby in middle)
+Bamfield,Bamfield Inlet,27-Jun-24,2,111,8,under rock,aggregated,4,BI_2024_Photo111_ind4,1.635,16.5,16.4,16.4,16.5,NA,NA,16.43,16.45,18.1,17.1,17.7,annotate the 5 I was sure were ochre stars - did not annotate remaining 3 (two on top and one baby in middle)
+Bamfield,Bamfield Inlet,27-Jun-24,2,111,8,under rock,aggregated,5,BI_2024_Photo111_ind5,2.436,17.6,17.3,16.8,16.6,17.2,NA,16.98,17.1,16.8,16.6,16.7,annotate the 5 I was sure were ochre stars - did not annotate remaining 3 (two on top and one baby in middle)
+Bamfield,Bamfield Inlet,27-Jun-24,2,112,1,under rock,solitary,1,BI_2024_Photo112_ind1,3.678,17.1,17.3,17.4,17.4,17.3,17.5,17.38,17.33,18.8,18.4,18.6,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,113,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,upsidedown did not annotate
+Bamfield,Bamfield Inlet,27-Jun-24,2,114,1,under rock,solitary,1,BI_2024_Photo114_ind1,3.651,16.9,16.9,16.9,17,17.5,17.1,17.08,17.05,17,16.8,16.9,rock flipped over to reveal sea stars
+Bamfield,Bamfield Inlet,27-Jun-24,2,115,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see tips of arms - did not annotate

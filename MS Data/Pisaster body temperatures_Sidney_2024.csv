@@ -1,0 +1,194 @@
+locality,site,date,transect.number,photo.number,n.Pisaster,microhabitat,aggregated,ind.number,star.ID,arm.length.cm,disc.temp,arm.1.temp,arm.2.temp,arm.3.temp,arm.4.temp,arm.5.temp,arm.ave,star.ave,substrate.max,substrate.min,substrate.ave,notes
+Sidney,Moses Point,22-Jul-24,1,1,3,under rock,aggregated,1,MP_2024_Photo1_ind1,2.814,19.8,20,19.6,19.7,19.9,19.7,19.8,19.8,20.1,19.4,19.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,1,3,under rock,aggregated,2,MP_2024_Photo1_ind2,3.755,19.7,19.8,19.6,19.6,19.5,19.6,19.6,19.6,19.8,19.4,19.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,1,3,under rock,aggregated,3,MP_2024_Photo1_ind3,3.542,19.3,19.7,19.5,19.2,19.4,19.4,19.4,19.4,19.9,19.5,19.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,2,5,under rock,aggregated,1,MP_2024_Photo2_ind1,2.706,18.4,18.6,18.2,NA,NA,NA,18.4,18.4,18.6,18.1,18.3,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,2,5,under rock,aggregated,2,MP_2024_Photo2_ind2,3.276,18.8,19.1,19.2,19,NA,NA,19.1,19,19.6,19.3,19.4,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,2,5,under rock,aggregated,3,MP_2024_Photo2_ind3,4.044,19,18.8,19.1,19.2,NA,NA,19,19,19.1,18.7,18.9,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,2,5,under rock,aggregated,4,MP_2024_Photo2_ind4,4.134,18.7,18.8,18.9,18.7,NA,NA,18.8,18.8,18.8,18.6,18.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,3,1,exposed,solitary,1,MP_2024_Photo3_ind1,7.929,25,23.7,24.8,24.1,24.6,23.7,24.2,24.3,24.7,22.4,24,exposed on mud/algae/sand
+Sidney,Moses Point,22-Jul-24,1,4,2,partly exposed,aggregated,1,MP_2024_Photo4_ind1,3.666,19.1,19.1,18.9,NA,NA,NA,19,19,19.2,18.8,19,"half of star tucked under rock, annotated areas exposed to sun; animals under rock shelf"
+Sidney,Moses Point,22-Jul-24,1,4,2,partly exposed,aggregated,2,MP_2024_Photo4_ind2,5.115,19.6,19.5,19.4,19.4,19.9,NA,19.6,19.6,19.3,19.1,19.2,"half of star tucked under rock, annotated areas exposed to sun; animals under rock shelf"
+Sidney,Moses Point,22-Jul-24,1,5,3,partly exposed,aggregated,1,MP_2024_Photo5_ind1,3.462,18.5,18.6,18.4,18.2,18.2,NA,18.4,18.4,19,18.3,18.6,inside rock crevice; one arm shaded from sun (not annotated - can't see it)
+Sidney,Moses Point,22-Jul-24,1,6,1,shaded,solitary,1,MP_2024_Photo6_ind1,5.702,19.1,18.4,19.3,18.9,NA,NA,18.9,18.9,19.1,18.8,18.9,"half of star tucked under rock, annotated areas exposed to sun; animals under rock shelf"
+Sidney,Moses Point,22-Jul-24,1,7,1,under rock,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,too deep in rock crevice; cannot see central disc or get arm length
+Sidney,Moses Point,22-Jul-24,1,8,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,too deep in rock crevice; cannot see central disc or get arm length
+Sidney,Moses Point,22-Jul-24,1,9,3,under rock,aggregated,1,MP_2024_Photo9_ind1,3.923,20.4,20.2,20,20,20.2,20.4,20.2,20.2,20.3,20.1,20.2,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,9,3,under rock,aggregated,2,MP_2024_Photo9_ind2,5.518,19.9,19.8,20,NA,NA,NA,19.9,19.9,20.2,20.1,20.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,9,3,under rock,aggregated,3,MP_2024_Photo9_ind3,6.538,19.8,19.8,20.3,20,19.6,NA,19.9,19.9,21.3,20.8,21.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,10,1,under rock,solitary,1,MP_2024_Photo10_ind1,9.233,19.5,19.4,19.8,19.7,19.5,NA,19.6,19.6,19.9,19.5,19.7,on the side of a rock
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,1,MP_2024_Photo11_ind1,7.928,21.1,20.8,20.5,20.1,20.6,NA,20.5,20.6,20.4,20.2,20.3,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,2,MP_2024_Photo11_ind2,4.599,19.9,19.8,19.6,19.6,NA,NA,19.7,19.7,20,19.8,19.9,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,3,MP_2024_Photo11_ind3,5.258,19.6,19.5,19.6,19.6,20.1,NA,19.7,19.7,19.9,19.6,19.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,4,MP_2024_Photo11_ind4,3.957,20.7,20.1,20.5,20.6,20.7,NA,20.5,20.5,21.1,20.6,20.8,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,5,MP_2024_Photo11_ind5,4.931,20.6,20.5,20.1,20.4,19.8,19.9,20.1,20.2,20,19.5,19.8,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,6,MP_2024_Photo11_ind6,5.895,20.3,19.9,19.8,20.5,20.5,20.5,20.2,20.3,20.2,20.1,20.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,11,7,under rock,aggregated,7,MP_2024_Photo11_ind7,4.583,20.7,20.4,20.8,20.6,20.7,NA,20.6,20.6,20.4,20.2,20.2,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,12,3,under rock,aggregated,1,MP_2024_Photo12_ind1,3.75,21.2,21.8,20.9,21.1,21.8,22.1,21.5,21.5,22.2,22,22.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,12,3,under rock,aggregated,2,MP_2024_Photo12_ind2,5.387,20.8,21.2,21.1,20.8,21.1,21.3,21.1,21.1,22.2,21.8,21.9,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,12,3,under rock,aggregated,3,MP_2024_Photo12_ind3,3.646,21.3,21.4,21.3,21.7,22.3,NA,21.7,21.6,22.4,22.1,22.3,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,13,4,under rock,aggregated,1,MP_2024_Photo13_ind1,4.85,18.8,18.6,18.6,19.1,18.8,18.8,18.8,18.8,19.7,19.4,19.5,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,13,4,under rock,aggregated,2,MP_2024_Photo13_ind2,2.383,18.8,18.9,19.2,19.1,NA,NA,19.1,19,19,18.8,18.9,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,13,4,under rock,aggregated,3,MP_2024_Photo13_ind3,4.018,19,19.1,19.7,19.3,19,NA,19.3,19.2,20.5,20,20.2,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,14,1,under rock,solitary,1,MP_2024_Photo14_ind1,4.009,17.7,18,17.7,17.7,18,17.7,17.8,17.8,17.9,17.6,17.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,15,2,under rock,aggregated,1,MP_2024_Photo15_ind1,5.175,19.3,19.1,19.5,19.6,20.2,18.7,19.4,19.4,19.9,19.2,19.5,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,15,2,under rock,aggregated,2,MP_2024_Photo15_ind2,7.225,18.4,17.7,18.2,18.9,18.7,19.8,18.7,18.6,18.8,18.3,18.5,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,16,1,under rock,solitary,1,MP_2024_Photo16_ind1,6.638,18.5,18.6,18.8,19.2,18.6,18.6,18.8,18.7,20.3,20,20.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,17,1,under rock,solitary,1,MP_2024_Photo17_ind1,4.624,18.4,17.8,17.9,18.3,18.9,18.8,18.3,18.4,19.3,18.6,19.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,18,2,under rock,aggregated,1,MP_2024_Photo18_ind1,8.38,17,17.4,17.2,17.1,16.8,16.9,17.1,17.1,18.5,18,18.4,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,18,2,under rock,aggregated,2,MP_2024_Photo18_ind2,3.88,16.4,16.9,17.2,16.9,16.6,16.6,16.8,16.8,18.1,17.4,17.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,19,2,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,too deep in rock crevice; cannot see central disc or get arm length
+Sidney,Moses Point,22-Jul-24,1,20,2,shaded,aggregated,1,MP_2024_Photo20_ind1,8.314,18.2,18.2,18.3,18.3,18.3,18,18.2,18.2,18.4,18.3,18.4,annotated star is directly on top of another sea star
+Sidney,Moses Point,22-Jul-24,1,21,1,shaded,solitary,1,MP_2024_Photo21_ind1,11.366,17.6,17.6,17.6,NA,NA,NA,17.6,17.6,17.6,17.3,17.5,in between a few rocks
+Sidney,Moses Point,22-Jul-24,1,22,3,under rock,aggregated,1,MP_2024_Photo22_ind1,2.319,20.3,20.2,20.3,20.7,20.9,NA,20.5,20.5,21,20.7,20.8,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,22,3,under rock,aggregated,2,MP_2024_Photo22_ind2,2.732,20.8,21,20.7,20.2,20.5,21.2,20.7,20.7,21.7,20.6,21.3,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,22,3,under rock,aggregated,3,MP_2024_Photo22_ind3,2.054,21.3,21.5,21.1,20.9,21.3,21.4,21.2,21.3,22.9,21.6,22.5,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,23,2,under rock,aggregated,1,MP_2024_Photo23_ind1,2.493,19.9,20.3,20.1,20.1,20,20.1,20.1,20.1,20.8,20.6,20.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,24,1,under rock,solitary,1,MP_2024_Photo24_ind1,2.709,19.7,19.4,19.5,19.5,19,19.1,19.3,19.4,19.1,18.6,18.8,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,25,2,under rock,aggregated,1,MP_2024_Photo25_ind1,3.933,20,20.2,20.1,20.7,20.6,19.7,20.3,20.2,20.5,20.1,20.4,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,25,2,under rock,aggregated,2,MP_2024_Photo25_ind2,2.416,20.2,19.9,20.6,20.8,NA,NA,20.4,20.4,21.7,20.7,21.3,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,1,26,1,shaded,solitary,1,MP_2024_Photo26_ind1,13.121,18.6,19.3,19.2,19.3,NA,NA,19.3,19.1,19.1,18.7,18.9,on the side of a rock
+Sidney,Moses Point,22-Jul-24,1,27,2,under rock,aggregated,1,MP_2024_Photo27_ind1,7.818,18.8,18.5,18.7,19,18.7,18.4,18.7,18.7,19.1,18.9,19,annotated star is directly on top of another sea star
+Sidney,Moses Point,22-Jul-24,1,28,1,shaded,solitary,1,MP_2024_Photo28_ind1,5.031,19.8,20.2,20.2,NA,NA,NA,20.2,20.1,20.7,20.3,20.5,on the side of a rock
+Sidney,Moses Point,22-Jul-24,1,29,1,shaded,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see any stars in this photo…
+Sidney,Moses Point,22-Jul-24,1,30,1,shaded,solitary,1,MP_2024_Photo30_ind1,3.964,20.5,18.9,20.7,20,22,NA,20.4,20.4,19,18.2,18.7,on the side of a rock
+Sidney,Moses Point,22-Jul-24,Outside transect,31,1,exposed,solitary,1,MP_2024_Photo31_ind1,9.568,24.3,23.4,23,23.9,24.2,26.7,24.2,24.3,25.7,24.4,25.3,exposed on mud/algae/sand
+Sidney,Moses Point,22-Jul-24,Outside transect,32,1,exposed,solitary,1,MP_2024_Photo32_ind1,4.9,25,25.8,25.4,24.5,25.2,24.9,25.2,25.1,25.1,24.4,24.7,exposed on mud/algae/sand
+Sidney,Moses Point,22-Jul-24,2,33,3,under rock,aggregated,1,MP_2024_Photo33_ind1,5.12,18.7,19.4,20.2,18.5,17.9,17.8,18.8,18.8,22.4,19.4,21.6,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,33,3,under rock,aggregated,2,MP_2024_Photo33_ind2,2.475,18.1,17.3,18.9,18.4,18.9,16.9,18.1,18.1,21.6,21.1,21.4,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,33,3,under rock,aggregated,3,MP_2024_Photo33_ind3,2.218,18.1,17.9,18,18.3,NA,NA,18.1,18.1,21.4,20.7,21.1,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,34,2,under rock,aggregated,1,MP_2024_Photo34_ind1,3.494,19.5,20.8,19.8,18.3,19.3,NA,19.6,19.5,22.2,21.2,21.5,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,34,2,under rock,aggregated,2,MP_2024_Photo34_ind2,5.848,19.3,19.9,18.8,18.8,19.2,19.3,19.2,19.2,21.2,20.4,20.8,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,35,3,under rock,aggregated,1,MP_2024_Photo35_ind1,4.818,21.5,20.8,19.8,20.6,22.1,22.7,21.2,21.3,27.6,25.5,27,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,35,3,under rock,aggregated,2,MP_2024_Photo35_ind2,5.27,20.2,20.1,20.9,21.9,20.8,21.3,21,20.9,27.2,26.1,26.4,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,35,3,under rock,aggregated,3,MP_2024_Photo35_ind3,2.966,21.7,21.4,22,22.5,NA,NA,22,21.9,24.4,23.9,24.2,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,36,2,under rock,aggregated,1,MP_2024_Photo36_ind1,4.282,19.4,18.9,18.9,19.5,19.8,NA,19.3,19.3,20.1,19.6,19.9,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,36,2,under rock,aggregated,2,MP_2024_Photo36_ind2,4.338,19.3,19.4,20.5,20.7,19.1,18.8,19.7,19.6,22,21.2,21.7,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,37,3,shaded,aggregated,1,MP_2024_Photo37_ind1,5.648,17.9,18,17.9,18.1,18,18,18,18,18.6,18.4,18.5,under rock shelf
+Sidney,Moses Point,22-Jul-24,2,38,1,partly exposed,aggregated,1,MP_2024_Photo38_ind1,2.629,17.2,17.5,17.4,17.3,NA,NA,17.4,17.4,17.8,17.3,17.5,"half of star tucked under rock, annotated areas exposed to sun; animals under rock shelf"
+Sidney,Moses Point,22-Jul-24,2,39,1,under rock,solitary,1,MP_2024_Photo39_ind1,4.202,19.2,19.6,18.9,19.5,19.7,19.9,19.5,19.5,21.6,21.3,21.4,rock flipped over to reveal stars
+Sidney,Moses Point,22-Jul-24,2,40,3,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,can't see ruler; unsure if two of three are even ochre stars
+Sidney,Moses Point,22-Jul-24,2,41,1,shaded,solitary,1,MP_2024_Photo41_ind1,3.425,18.4,18.6,18.5,18.4,NA,NA,18.5,18.5,18.5,18.1,18.3,in rock crevice
+Sidney,Moses Point,22-Jul-24,2,42,1,exposed,solitary,1,MP_2024_Photo42_ind1,5.85,25.2,27.4,22.9,24.3,20.9,22.1,23.5,23.8,25.9,24,25,under rock shelf; in full sun
+Sidney,Moses Point,22-Jul-24,2,43,1,partly exposed,solitary,1,MP_2024_Photo43_ind1,8.842,25.4,24.5,23.3,24.1,25.3,NA,24.3,24.5,24.2,23.6,24,"half of star tucked under rock, annotated areas exposed to sun; animals under rock shelf"
+Sidney,Moses Point,22-Jul-24,2,44,1,shaded,solitary,1,MP_2024_Photo44_ind1,3.538,22.6,22.2,22.7,22.7,21.9,NA,22.4,22.4,23.4,22.5,22.9,in rock crevice
+Sidney,Chalet Beach,23-Jul-24,1,1,2,shaded,aggregated,1,CB_2024_Photo1_ind1,10.438,15.6,15.6,15.8,NA,NA,NA,15.7,15.7,15.9,15.4,15.6,under rock shelf; can only see one star
+Sidney,Chalet Beach,23-Jul-24,1,2,1,shaded,solitary,1,CB_2024_Photo2_ind1,2.468,18.9,19.8,19.2,NA,NA,NA,19.5,19.3,21.5,21,21.2,under rock shelf
+Sidney,Chalet Beach,23-Jul-24,1,3,1,under rock,solitary,1,CB_2024_Photo3_ind1,6.211,18.5,18.6,18.4,17.9,18.1,18.8,18.4,18.4,20.1,19.7,19.9,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,4,1,under rock,solitary,1,CB_2024_Photo4_ind1,5.774,18.2,18.1,18.7,18.5,NA,NA,18.4,18.4,18.2,18.1,18.2,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,5,1,under rock,solitary,1,CB_2024_Photo5_ind1,8.138,17.2,17.1,17.9,17.3,16.7,NA,17.3,17.2,17.6,17.3,17.4,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,6,1,under rock,solitary,1,CB_2024_Photo6_ind1,1.451,20.2,20.4,20.4,20.1,20.2,20.5,20.3,20.3,21.4,21,21.1,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,7,4,under rock,aggregated,1,CB_2024_Photo7_ind1,5.024,18.4,18.8,18.5,19,19.1,19.7,19,18.9,20.5,20.3,20.4,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,7,4,under rock,aggregated,2,CB_2024_Photo7_ind2,4.181,18.9,20,19.2,18.9,19,20.4,19.5,19.4,21,20.2,20.6,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,7,4,under rock,aggregated,3,CB_2024_Photo7_ind3,4.278,19.2,19.1,19.1,19.8,20.1,20.2,19.7,19.6,20.3,20,20.2,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,1,7,4,under rock,aggregated,4,CB_2024_Photo7_ind4,6.333,19,19.5,18.6,19.1,19.3,20.4,19.4,19.3,20.4,20.1,20.2,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,8,2,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see stars; too deep in crevice
+Sidney,Chalet Beach,23-Jul-24,2,9,3,under rock,aggregated,1,CB_2024_Photo9_ind1,8.177,15.7,16.5,16.4,16.1,15.4,15.7,16,16,16.2,15.9,16.1,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,9,3,under rock,aggregated,2,CB_2024_Photo9_ind2,8.576,15.6,15.9,15.6,15.8,16.3,16,15.9,15.9,16.3,16.1,16.2,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,9,3,under rock,aggregated,3,CB_2024_Photo9_ind3,3.361,16.6,16.3,16.3,16.6,16.6,NA,16.5,16.5,16.8,16.4,16.6,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,10,1,under rock,solitary,1,CB_2024_Photo10_ind1,7.659,17,16.9,17.2,17.3,17.3,17.1,17.2,17.1,17.5,17.3,17.4,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,11,2,shaded,aggregated,1,CB_2024_Photo11_ind1,12.135,15.3,15.4,15.5,15.3,NA,NA,15.4,15.4,15.7,15.4,15.5,under rock shelf; can only see one star
+Sidney,Chalet Beach,23-Jul-24,2,12,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc or arm length
+Sidney,Chalet Beach,23-Jul-24,2,13,2,shaded,aggregated,1,CB_2024_Photo13_ind1,9.475,16.3,16.9,17,16.9,NA,NA,16.9,16.8,17.4,17,17.2,annotated only one star - other star cannot get arm length
+Sidney,Chalet Beach,23-Jul-24,2,14,1,under rock,solitary,1,CB_2024_Photo14_ind1,10.283,16.5,16.4,16.2,16.5,15.9,16.2,16.2,16.3,16.4,16,16.1,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,15,1,under rock,solitary,1,CB_2024_Photo15_ind1,11.01,15.4,15.6,15.6,15.9,NA,NA,15.7,15.6,16.2,15.4,15.7,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,16,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see stars; too deep in crevice
+Sidney,Chalet Beach,23-Jul-24,2,17,2,shaded,aggregated,1,CB_2024_Photo17_ind1,9.093,17.1,17.2,17.6,17.4,NA,NA,17.4,17.3,17.6,17.3,17.5,"annotated only one star - cannot see other stars, too shaded"
+Sidney,Chalet Beach,23-Jul-24,2,18,2,shaded,aggregated,1,CB_2024_Photo18_ind1,11.962,16.4,16.5,16.1,16.2,NA,NA,16.3,16.3,16.7,16.2,16.4,annotated only one star -can't tell where central disc/arm length is
+Sidney,Chalet Beach,23-Jul-24,2,19,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central disc or arm length
+Sidney,Chalet Beach,23-Jul-24,2,20,2,under rock,aggregated,1,CB_2024_Photo20_ind1,9.1,14.8,14.9,15.1,15,15,NA,15,15,15.8,14.9,15.3,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,20,2,under rock,aggregated,2,CB_2024_Photo20_ind2,5.272,15.1,15,15.7,15.3,15,NA,15.3,15.2,16.6,16.2,16.4,rock flipped over to reveal stars
+Sidney,Chalet Beach,23-Jul-24,2,21,1,under rock,solitary,1,CB_2024_Photo21_ind1,7.057,15.7,15.4,15.4,15.6,NA,NA,15.5,15.5,15,14.7,14.8,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,1,1,under rock,solitary,1,GB_2024_Photo1_ind1,8.376,17.3,16.1,17.2,16.8,17.6,16.8,16.9,17,16.9,16.2,16.5,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,2,1,under rock,solitary,1,GB_2024_Photo2_ind1,7.495,10.2,10.4,10.4,10.2,10.6,10.3,10.4,10.4,10.5,10.2,10.4,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,3,2,under rock,aggregated,1,GB_2024_Photo3_ind1,6.721,13,13.1,13,12.7,12.9,13.1,13,13,13,12.7,12.9,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,3,2,under rock,aggregated,2,GB_2024_Photo3_ind2,6.828,13.2,13.4,12.9,13,13.1,13,13.1,13.1,13.6,13.3,13.5,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,4,1,under rock,solitary,1,GB_2024_Photo4_ind1,9.324,15.4,15.8,15.6,15.2,15.4,15.9,15.6,15.6,16.5,16.3,16.4,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,5,1,tidepool,solitary,1,GB_2024_Photo5_ind1,9.047,16.2,16.5,15.6,16.2,16.2,16.2,16.1,16.2,17.1,16.3,16.7,"Most of oral surface in the water; also underneath rock that was lifted up to expose star; substate temp taken on rock next to arm that was measured, NOT on the water surface"
+Sidney,Glass Beach,24-Jul-24,1,6,1,exposed,solitary,1,GB_2024_Photo6_ind1,8.901,15.5,16.2,15.6,14.8,14.8,16.2,15.5,15.5,16.3,15.5,15.9,on side of a rock; partly exposed vs exposed based on angle of the sun (time of day)
+Sidney,Glass Beach,24-Jul-24,1,7,1,under rock,solitary,1,GB_2024_Photo7_ind1,8.129,15.6,16,15.9,15.2,14.9,15.5,15.5,15.5,16.3,15.6,16,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,8,1,under rock,solitary,1,GB_2024_Photo8_ind1,6.996,13.6,13.7,13.3,13.2,14.3,14.5,13.8,13.8,13.4,13.1,13.2,rock flipped over to reveal stars
+Sidney,Glass Beach,24-Jul-24,1,9,3,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see central discs and/or arm lengths
+Sidney,Glass Beach,24-Jul-24,2,10,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cannot see central disc
+Sidney,Glass Beach,24-Jul-24,2,11,1,exposed,solitary,1,GB_2024_Photo11_ind1,10.308,14.4,13.5,13.9,14.5,14,13.9,14,14,14,13.7,13.9,exposed on large cobble
+Sidney,Glass Beach,24-Jul-24,2,12,1,shaded,solitary,1,GB_2024_Photo12_ind1,2.537,10.1,9.9,9.9,9.9,NA,NA,9.9,10,9.8,9.4,9.5,in between a few rocks
+Sidney,Glass Beach,24-Jul-24,2,13,2,exposed,aggregated,1,GB_2024_Photo13_ind1,8.908,12.9,13.2,13,13.1,12.7,NA,13,13,13.2,12.9,13,exposed on rocky substrate
+Sidney,Glass Beach,24-Jul-24,2,13,2,exposed,aggregated,2,GB_2024_Photo13_ind2,10.559,13,13,13.7,13.6,NA,NA,13.4,13.3,13.3,12.9,13,exposed on rocky substrate
+Sidney,Seabreeze Road,25-Jul-24,1A,1,5,under rock,aggregated,1,SR_2024_Photo1_ind1,4.15,17.7,18,17.6,17.3,17.7,17.9,17.7,17.7,17.8,17.3,17.6,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,1,5,under rock,aggregated,2,SR_2024_Photo1_ind2,4.314,17.2,17.1,16.9,17,17.1,16.8,17,17,17.6,17.2,17.4,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,1,5,under rock,aggregated,3,SR_2024_Photo1_ind3,4.362,17,17.1,17,16.8,16.8,16.8,16.9,16.9,17.5,17.1,17.3,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,1,5,under rock,aggregated,4,SR_2024_Photo1_ind4,2.189,16.6,16.6,16.7,16.6,16.6,16.7,16.6,16.6,16.8,16.6,16.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,1,5,under rock,aggregated,5,SR_2024_Photo1_ind5,4.207,17,16.8,16.8,17.2,16.7,NA,16.9,16.9,17.5,16.9,17.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,2,6,under rock,aggregated,1,SR_2024_Photo2_ind1,5.222,18.6,19,18.1,18.4,18.7,18.7,18.6,18.6,19.6,19.3,19.4,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,2,6,under rock,aggregated,2,SR_2024_Photo2_ind2,3.067,18.2,18.5,18.3,18.2,18.2,NA,18.3,18.3,19.6,19.3,19.5,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,2,6,under rock,aggregated,3,SR_2024_Photo2_ind3,5.841,18.4,18.4,18.3,18.6,18.4,18.3,18.4,18.4,18.6,18.5,18.5,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,2,6,under rock,aggregated,4,SR_2024_Photo2_ind4,4.163,18.8,18.5,18.8,18.9,18.5,18.7,18.7,18.7,19,18.3,18.6,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,2,6,under rock,aggregated,5,SR_2024_Photo2_ind5,4.851,18.7,18.4,18.2,18.5,18.6,NA,18.4,18.5,18.8,18.6,18.8,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,3,1,under rock,solitary,1,SR_2024_Photo3_ind1,6.02,18.6,17.9,17.6,19.1,18.5,NA,18.3,18.3,17.9,17.5,17.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,1,SR_2024_Photo4_ind1,3.264,15.7,16.8,17.3,16.6,16.2,NA,16.7,16.5,17.5,17.1,17.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,2,SR_2024_Photo4_ind2,4.532,16.3,16.1,15.8,15.7,16.1,17,16.1,16.2,15.5,15.2,15.4,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,3,SR_2024_Photo4_ind3,2.825,15.7,15.9,16,16.3,15.5,15.5,15.8,15.8,15.6,15.4,15.5,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,4,SR_2024_Photo4_ind4,4.62,15.5,15.2,15.6,15.4,15.7,15.5,15.5,15.5,15.2,15,15.1,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,5,SR_2024_Photo4_ind5,2.706,15.8,15.6,15.6,16,16.2,15.9,15.9,15.9,15.8,15.6,15.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,6,SR_2024_Photo4_ind6,3.243,16.6,16.6,16.6,15.7,17,NA,16.5,16.5,17.1,16.4,16.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,4,8,under rock,aggregated,7,SR_2024_Photo4_ind7,3.743,16.4,16.8,16.4,16.2,15.8,16,16.2,16.3,17.2,16.7,17,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,5,1,under rock,solitary,1,SR_2024_Photo5_ind1,3.303,16.6,16.7,16.7,16.2,16.3,NA,16.5,16.5,16.2,15.9,16,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,6,7,shaded,aggregated,1,SR_2024_Photo6_ind1,4.381,15.1,15.2,15,14.9,NA,NA,15,15.1,15.1,14.9,15,under rock shelf; only 3 stars had visible disc and arm length
+Sidney,Seabreeze Road,25-Jul-24,1A,6,7,shaded,aggregated,2,SR_2024_Photo6_ind2,4.162,14.7,14.6,14.8,15,NA,NA,14.8,14.8,15,14.6,14.8,under rock shelf; only 3 stars had visible disc and arm length
+Sidney,Seabreeze Road,25-Jul-24,1A,6,7,shaded,aggregated,3,SR_2024_Photo6_ind3,3.496,14.8,14.7,14.8,14.7,NA,NA,14.7,14.8,14.9,14.7,14.8,under rock shelf; only 3 stars had visible disc and arm length
+Sidney,Seabreeze Road,25-Jul-24,1A,7,5,shaded,aggregated,1,SR_2024_Photo7_ind1,6.835,16,15.7,15.9,16,NA,NA,15.9,15.9,15.7,15.6,15.6,under rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1A,7,5,shaded,aggregated,2,SR_2024_Photo7_ind2,4.078,15.7,15.8,15.6,15.8,NA,NA,15.7,15.7,16,15.6,15.8,under rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1A,7,5,shaded,aggregated,3,SR_2024_Photo7_ind3,1.991,15.7,15.6,15.6,15.7,NA,NA,15.6,15.7,15.7,15.6,15.7,under rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1A,7,5,shaded,aggregated,4,SR_2024_Photo7_ind4,3.755,15.8,15.7,15.7,NA,NA,NA,15.7,15.7,15.9,15.6,15.7,under rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1A,7,5,shaded,aggregated,5,SR_2024_Photo7_ind5,3.907,16.2,15.8,16.2,16.4,NA,NA,16.1,16.2,16.3,16,16.1,under rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1A,8,2,shaded,aggregated,1,SR_2024_Photo8_ind1,1.907,16.6,16.8,16.5,16.9,16.6,NA,16.7,16.7,16.8,16.6,16.7,under rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1A,9,1,under rock,solitary,1,SR_2024_Photo9_ind1,4.13,18.5,18.5,18.1,18.4,18.2,18.4,18.3,18.4,18.7,18.4,18.6,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,10,1,shaded,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,too deep in rock crevice; cannot see central disc or get arm length
+Sidney,Seabreeze Road,25-Jul-24,1A,11,1,shaded,solitary,1,SR_2024_Photo11_ind1,5.82,16.5,16.4,16.5,16.2,16.1,15.9,16.2,16.3,16.5,16.1,16.3,shaded within kelp
+Sidney,Seabreeze Road,25-Jul-24,1A,12,2,shaded,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cannot see any lines on ruler; can't size star
+Sidney,Seabreeze Road,25-Jul-24,1A,13,2,shaded,aggregated,1,SR_2024_Photo13_ind1,5.585,18.3,17.6,17.8,18.2,18,NA,17.9,18,18.3,18.1,18.1,shaded within kelp
+Sidney,Seabreeze Road,25-Jul-24,1A,13,2,shaded,aggregated,2,SR_2024_Photo13_ind2,4.19,18,18.1,17.8,NA,NA,NA,18,18,18.5,18.1,18.2,shaded within kelp
+Sidney,Seabreeze Road,25-Jul-24,1A,14,2,under rock,aggregated,1,SR_2024_Photo14_ind1,3.445,18.6,18.5,18.8,19.3,18.6,18.6,18.8,18.7,19.5,19.2,19.4,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,14,2,under rock,aggregated,2,SR_2024_Photo14_ind2,4.089,18.4,18.2,18.5,18.3,18.1,18.5,18.3,18.3,19.3,19.1,19.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,15,6,under rock,aggregated,1,SR_2024_Photo15_ind1,7.217,17.1,16.9,17,17,16.8,16.8,16.9,16.9,16.8,16.6,16.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,15,6,under rock,aggregated,2,SR_2024_Photo15_ind2,2.839,16.9,16.9,16.7,16.7,16.6,16.9,16.8,16.8,16.8,16.6,16.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,15,6,under rock,aggregated,3,SR_2024_Photo15_ind3,3.887,16.9,17,16.6,16.8,16.8,16.7,16.8,16.8,16.7,16.6,16.6,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,15,6,under rock,aggregated,4,SR_2024_Photo15_ind4,2.223,16.9,16.8,16.8,16.8,16.8,16.7,16.8,16.8,16.5,16.3,16.4,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,15,6,under rock,aggregated,5,SR_2024_Photo15_ind5,4.194,17,17.1,16.6,16.9,17.1,17.2,17,17,17,16.8,16.9,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,15,6,under rock,aggregated,6,SR_2024_Photo15_ind6,4.334,17,17.1,16.9,16.8,16.6,16.6,16.8,16.8,16.4,16.2,16.3,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,16,2,under rock,aggregated,1,SR_2024_Photo16_ind1,3.696,16.4,17.3,17.2,16.4,16.6,16.8,16.9,16.8,18.7,16.5,16.9,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,16,2,under rock,aggregated,2,SR_2024_Photo16_ind2,3.478,16.4,16.7,16.7,16.7,16.1,16.5,16.5,16.5,19,17.4,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,1,SR_2024_Photo17_ind1,5.924,18.4,18.7,17.7,17.5,17.9,18.4,18,18.1,18.7,18.4,18.5,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,2,SR_2024_Photo17_ind2,3.092,18.1,18.1,18.1,18.4,18.4,NA,18.3,18.2,18.2,18.1,18.1,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,3,SR_2024_Photo17_ind3,2.71,18.4,18.4,18.1,18,18,NA,18.1,18.2,18.1,17.8,17.9,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,4,SR_2024_Photo17_ind4,4.898,18.5,18,18.8,18.6,18.4,18.6,18.5,18.5,19.7,18.8,19.3,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,5,SR_2024_Photo17_ind5,4.377,18.3,18.4,17.8,17.9,18,NA,18,18.1,18.3,17.9,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,6,SR_2024_Photo17_ind6,2.249,17.8,17.9,18.3,NA,NA,NA,18.1,18,18.1,17.9,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,17,7,under rock,aggregated,7,SR_2024_Photo17_ind7,2.569,17.8,18.1,17.9,17.8,NA,NA,17.9,17.9,18.2,17.8,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,18,4,under rock,aggregated,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,really bad photo
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,1,SR_2024_Photo19_ind1,5.057,19.3,20.1,20.1,19.1,18.6,NA,19.5,19.4,20.9,20.6,20.8,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,2,SR_2024_Photo19_ind2,4.539,19,19.3,19.6,19.1,18.7,19.2,19.2,19.2,20.5,19.5,20.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,3,SR_2024_Photo19_ind3,3.528,18.9,19.5,18.9,19,18.9,19,19.1,19,19.4,18.8,19.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,4,SR_2024_Photo19_ind4,2.19,17.8,18.3,18.3,18.1,18.2,18.3,18.2,18.2,18.9,18.7,18.8,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,5,SR_2024_Photo19_ind5,3.288,18.3,18,18,18.7,18.8,19,18.5,18.5,18.2,17.9,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,6,SR_2024_Photo19_ind6,3.376,18.5,18.1,18.4,18.1,18.7,18.5,18.4,18.4,18.3,18.2,18.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,19,7,under rock,aggregated,7,SR_2024_Photo19_ind7,2.93,18.8,18.9,19,18.8,18.7,18.6,18.8,18.8,18.9,18.8,18.9,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,20,3,under rock,aggregated,1,SR_2024_Photo20_ind1,3.861,17.5,17.1,17.1,17.7,17,17.5,17.3,17.3,17.5,17.1,17.3,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,20,3,under rock,aggregated,2,SR_2024_Photo20_ind2,5.626,17.5,18.2,17.6,17.7,17.9,NA,17.9,17.8,18.3,18.1,18.3,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1A,20,3,under rock,aggregated,3,SR_2024_Photo20_ind3,2.881,17.7,17.1,17.2,17.8,17.6,17.4,17.4,17.5,18.1,17.9,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,21,1,under rock,solitary,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,could not get disc temp or arm length
+Sidney,Seabreeze Road,25-Jul-24,1B,22,1,shaded,solitary,1,SR_2024_Photo22_ind1,4.989,18.1,17.9,17.8,17.8,NA,NA,17.8,17.9,17.7,17.3,17.6,underneath rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1B,23,1,shaded,aggregated,1,SR_2024_Photo23_ind1,5.015,17.6,17.9,16.7,NA,NA,NA,17.3,17.4,17.3,17,17.2,underneath rock shelf
+Sidney,Seabreeze Road,25-Jul-24,1B,24,3,under rock,aggregated,1,SR_2024_Photo24_ind1,4.286,20,20,20.5,21.4,20.4,20.1,20.5,20.4,22.5,21.8,22,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,24,3,under rock,aggregated,2,SR_2024_Photo24_ind2,3.174,21.1,22.3,22.7,20.5,20.9,21.7,21.6,21.5,23.9,22.6,23.3,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,24,3,under rock,solitary,3,SR_2024_Photo24_ind3,3.823,20.8,21,20.1,20.3,20.6,21.1,20.6,20.7,21.8,21.5,21.7,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,25,4,under rock,aggregated,1,SR_2024_Photo25_ind1,4.91,18.1,17.7,17.5,17.5,17.6,17.8,17.6,17.7,18.3,17.7,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,25,4,under rock,aggregated,2,SR_2024_Photo25_ind2,3.658,17.7,17.9,17.6,17.6,17.7,NA,17.7,17.7,18.2,17.6,17.9,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,25,4,under rock,aggregated,3,SR_2024_Photo25_ind3,2.863,17.6,17.7,17.6,17.6,17.6,17.4,17.6,17.6,18.3,17.8,18.1,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,1B,25,4,under rock,aggregated,4,SR_2024_Photo25_ind4,2.88,17.6,17.3,17.6,17.6,NA,NA,17.5,17.5,17.5,17,17.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,2B,26,1,under rock,solitary,1,SR_2024_Photo26_ind1,4.124,17.3,17.1,17.5,17.2,16.9,17.2,17.2,17.2,19.4,19,19.2,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,2B,27,5,shaded,aggregated,1,SR_2024_Photo27_ind1,7.059,18.1,17.8,18.2,18.5,NA,NA,18.2,18.2,19.6,19.3,19.4,inside rock crevice; only one star has visible arm length and disc temp
+Sidney,Seabreeze Road,25-Jul-24,2B,28,1,shaded,solitary,1,SR_2024_Photo28_ind1,3.327,18.5,18.5,19,18.8,NA,NA,18.8,18.7,19,18.7,18.8,on side of a rock
+Sidney,Seabreeze Road,25-Jul-24,2B,29,3,under rock,aggregated,1,SR_2024_Photo29_ind1,4.085,17.5,17.4,17.5,17.9,17.6,17,17.5,17.5,18.3,17.8,18,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,2B,29,3,under rock,aggregated,2,SR_2024_Photo29_ind2,4.465,17.6,17.5,18.1,17.9,18,17.6,17.8,17.8,18.3,17.8,18.1,rock flipped over to reveal stars
+Sidney,Seabreeze Road,25-Jul-24,2B,29,3,under rock,aggregated,3,SR_2024_Photo29_ind3,4.928,17.4,18,17.6,17.2,17.4,17.6,17.6,17.5,18.6,18.1,18.3,rock flipped over to reveal stars
