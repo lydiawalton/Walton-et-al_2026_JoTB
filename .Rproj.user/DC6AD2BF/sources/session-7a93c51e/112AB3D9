@@ -3,7 +3,7 @@
     "path": "~/GitHub/Walton-et-al_2026_JoTB/MS Scripts/Pisaster_Body temperature figures_2024.R",
     "project_path": "MS Scripts/Pisaster_Body temperature figures_2024.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3184537578",
     "contents": "",
     "dirty": false,
     "created": 1776026626527.0,
@@ -12,15 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "270,0",
-        "scrollLine": "258"
+        "cursorPosition": "570,1",
+        "scrollLine": "558",
+        "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775255058,
+    "lastKnownWriteTime": 1777146115,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775255058,
+    "last_content_update": 1777146115498,
     "read_only": false,
     "read_only_alternatives": []
 }

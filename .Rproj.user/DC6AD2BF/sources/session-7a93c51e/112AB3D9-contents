@@ -277,8 +277,92 @@ lifestage.MH.table <- Bodysize.plotting %>%
 
 lifestage.MH.table
 
+
+###################i
+# Figure 3 ----
+###################i
+
+#Plot raw temperature data (air, sst, substrate) against body surface temperatures
+
+#Air temp
+bt.rawtemp.air <- Allsites.master %>% 
+  ggplot(aes(x = air, y = disc.temp)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#9E2A2B") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = "Body surface temperature (°C)", x = "Air temperature (°C)") +
+  scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  scale_x_continuous(breaks = seq(from = 20, to = 26, by = 1)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.rawtemp.air
+
+#Humidity
+bt.rawtemp.hum <- Allsites.master %>% 
+  ggplot(aes(x = humidity, y = disc.temp)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#540B0E") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = "Body surface temperature (°C)", x = "Humidity (%)") +
+  scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  scale_x_continuous(breaks = seq(from = 35, to = 70, by = 5)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.rawtemp.hum
+
+#SST
+bt.rawtemp.sst <- Allsites.master %>% 
+  ggplot(aes(x = sst, y = disc.temp)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#4357AD") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = "Body surface temperature (°C)", x = "Sea surface temperature (°C)") +
+  scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  scale_x_continuous(breaks = seq(from = 15, to = 20, by = 1)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.rawtemp.sst
+
+
+#Substrate
+bt.rawtemp.sub <- Allsites.master %>% 
+  ggplot(aes(x = substrate.ave, y = disc.temp)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#C17817") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = "Body surface temperature (°C)", x = "Substrate temperature (°C)") +
+  scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  scale_x_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.rawtemp.sub
+
+#### MS plot (raw temperature) ----
+rawtemp.plot <- (bt.rawtemp.air + bt.rawtemp.hum) / (bt.rawtemp.sst + bt.rawtemp.sub) +
+  plot_annotation(tag_levels = "A")
+
+rawtemp.plot
+
+#Save figure
+#png("MS Figures/Fig.Raw_temp.png", width = 12, height = 10, units = "in", res = 600)
+#rawtemp.plot
+#dev.off()
+
+
 ##################i
-# Figure ----
+# Figure 4 ----
 ##################i
 
 ## Statistics ----
@@ -328,7 +412,7 @@ bt.size <- Allsites.master %>%
                label.x = 0.95) +
   scale_color_manual(name = "Location",
                      values = c("grey75","grey25")) +
-  labs(y = "Surface body temperature (°C)", x = "Arm length (cm)") +
+  labs(y = "Body surface temperature (°C)", x = "Arm length (cm)") +
   scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
   scale_x_continuous(breaks = seq(from = 0, to = 18, by = 2)) +
   LW_theme +
@@ -350,7 +434,7 @@ bt.aggregation <- Allsites.master %>%
   geom_boxplot() +
   scale_fill_manual(labels = c("Aggregated", "Solitary"),
                     values = c("grey90","grey30")) +
-  labs(x = "Location", y = "Surface body temperature (°C)",
+  labs(x = "Location", y = "Body surface temperature (°C)",
        fill = "Aggregation behaviour") +
   LW_theme +
   theme(legend.position = "bottom") +
@@ -379,12 +463,12 @@ thermal.inertia
 
 
 ##################i
-# Figure ----
+# Figure 6 ----
 ##################i
 
 ## Statistics ----
 
-### Table S3 ----
+### Table 4 ----
 
 #New df for modelling removing the ordered factors
 Allsites.modelling <- Allsites.master
@@ -419,7 +503,77 @@ Allsites.master <- Allsites.master %>%
 Allsites.master <- Allsites.master %>% 
   mutate(delta.temp.sub = disc.temp - substrate.ave) 
 
+
+#################i
+# Figure 7 -----
+#################i
+
+
+#Plot delta substrate against air and sst
+## Are Pisaster cooler than the substrate on hot days or cold?
+
+bt.deltasub.air <- Allsites.master %>% 
+  ggplot(aes(x = air, y = delta.temp.sub)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#9E2A2B") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Air temperature (°C)") +
+  #scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  #scale_x_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.deltasub.air
+
+#SST
+bt.deltasub.sst <- Allsites.master %>% 
+  ggplot(aes(x = sst, y = delta.temp.sub)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#4357AD") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Air temperature (°C)") +
+  #scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  #scale_x_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.deltasub.sst
+
+#Substrate temp
+bt.deltasub.sub <- Allsites.master %>% 
+  ggplot(aes(x = substrate.ave, y = delta.temp.sub)) +
+  geom_point() +
+  geom_smooth(method = "glm", formula = y ~ x, method.args = list(family = gaussian),
+              colour = "#C17817") +
+  stat_poly_eq(use_label(c("adj.R2", "n")),
+               label.x = 0.05) +
+  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Air temperature (°C)") +
+  #scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  #scale_x_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
+  LW_theme +
+  theme(legend.position = "bottom") 
+
+bt.deltasub.sub
+
+#### MS plot (delta substrate temperature) ----
+deltasub.plot <- (bt.deltasub.air + bt.deltasub.sst + bt.deltasub.sub) +
+  plot_annotation(tag_levels = "A")
+
+deltasub.plot
+
+#Save figure
+#png("MS Figures/Fig.delta_substrate.png", width = 12, height = 8, units = "in", res = 600)
+#deltasub.plot
+#dev.off()
+
+
 ### Percent diff ----
+
+#### Air ----
 
 #Which animals were hotter than the ambient air?
 bt.delta.air.hot <- Allsites.master %>% 
@@ -429,7 +583,7 @@ bt.delta.air.hot <- Allsites.master %>%
 bt.delta.air.cold <- Allsites.master %>% 
   filter(delta.temp.air < 0) #727 animals
 
-#Min, max, mean and SD temp difference
+#Min, max, mean and SD air temp difference by locality and site
 bt.delta.air <- Allsites.master
 
 bt.delta.air.table <- bt.delta.air %>% 
@@ -441,11 +595,24 @@ bt.delta.air.table <- bt.delta.air %>%
 
 bt.delta.air.table
 
+#Min, max, mean and SD air temp difference (all)
+
+bt.delta.air.table.all <- bt.delta.air %>% 
+  group_by() %>% 
+  summarise(min = min(delta.temp.air), max = max(delta.temp.air),
+            mean = mean(delta.temp.air), SD = sd(delta.temp.air)) %>% 
+  kbl() %>% 
+  kable_classic(full_width = F, html = "Times New Roman")
+
+bt.delta.air.table.all
+
+#### SST -----
+
 #Which animals were colder than the ambient seawater?
 bt.delta.sst.cold <- Allsites.master %>% 
   filter(delta.temp.SST < 0) #341 animals (52% of total animals)
 
-#Min, max and mean temp difference
+#Min, max and mean SST temp difference
 bt.delta.SST.cold.table <- bt.delta.sst.cold %>% 
   group_by(locality, site) %>% 
   summarise(min = min(delta.temp.SST), max = max(delta.temp.SST),
@@ -455,12 +622,40 @@ bt.delta.SST.cold.table <- bt.delta.sst.cold %>%
 
 bt.delta.SST.cold.table
 
+#Min, max and mean SST temp difference (all)
+bt.delta.SST.cold.table.all <- bt.delta.sst.cold %>% 
+  group_by() %>% 
+  summarise(min = min(delta.temp.SST), max = max(delta.temp.SST),
+            mean = mean(delta.temp.SST), SD = sd(delta.temp.SST)) %>% 
+  kbl() %>% 
+  kable_classic(full_width = F, html = "Times New Roman")
 
-#What is the proportion of animals cooler than SST across microhabitats
-bt.delta.sst.habitat <- bt.delta.sst.cold %>% 
-  filter(microhabitat == "under rock") #231 animals 
+bt.delta.SST.cold.table.all
 
-231/341*100 #67.7% cooler than SST Pisaster found underneath rocks
+#### Substrate ----
+
+#Min, max, mean and SD substrate temp difference by locality and site
+bt.delta.sub <- Allsites.master
+
+bt.delta.sub.table <- bt.delta.sub %>% 
+  group_by(locality, site) %>% 
+  summarise(min = min(delta.temp.sub), max = max(delta.temp.sub),
+            mean = mean(delta.temp.sub), SD = sd(delta.temp.sub)) %>% 
+  kbl() %>% 
+  kable_classic(full_width = F, html = "Times New Roman")
+
+bt.delta.sub.table
+
+#Min, max, mean and SD temp difference (all)
+
+bt.delta.sub.table <- bt.delta.sub %>% 
+  group_by() %>% 
+  summarise(min = min(delta.temp.sub), max = max(delta.temp.sub),
+            mean = mean(delta.temp.sub), SD = sd(delta.temp.sub)) %>% 
+  kbl() %>% 
+  kable_classic(full_width = F, html = "Times New Roman")
+
+bt.delta.sub.table
 
 
 ### Bamfield SST ----
@@ -597,8 +792,9 @@ deltaT.env
 #deltaT.env
 #dev.off()
 
-
-# Figure ----
+#################i
+# Figure 5 ----
+##################i
 
 ## Plots ----
 
@@ -673,4 +869,7 @@ bt.sub.microhabit
 #png("MS Figures/Fig.DeltaT_Microhabitat.png", width = 8, height = 9, units = "in", res = 600)
 #bt.sub.microhabit
 #dev.off()
+
+
+
 
