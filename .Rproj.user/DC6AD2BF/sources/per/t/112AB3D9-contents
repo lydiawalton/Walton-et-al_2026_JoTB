@@ -535,7 +535,7 @@ bt.deltasub.sst <- Allsites.master %>%
               colour = "#4357AD") +
   stat_poly_eq(use_label(c("adj.R2", "n")),
                label.x = 0.05) +
-  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Air temperature (°C)") +
+  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Sea surface temperature (°C)") +
   #scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
   #scale_x_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
   LW_theme +
@@ -551,7 +551,7 @@ bt.deltasub.sub <- Allsites.master %>%
               colour = "#C17817") +
   stat_poly_eq(use_label(c("adj.R2", "n")),
                label.x = 0.05) +
-  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Air temperature (°C)") +
+  labs(y = expression(Delta*"substrate temperature (°C)"), x = "Substrate temperature (°C)") +
   #scale_y_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
   #scale_x_continuous(breaks = seq(from = 10, to = 26, by = 2)) +
   LW_theme +
@@ -566,9 +566,9 @@ deltasub.plot <- (bt.deltasub.air + bt.deltasub.sst + bt.deltasub.sub) +
 deltasub.plot
 
 #Save figure
-#png("MS Figures/Fig.delta_substrate.png", width = 12, height = 8, units = "in", res = 600)
-#deltasub.plot
-#dev.off()
+png("MS Figures/Fig.delta_substrate.png", width = 12, height = 8, units = "in", res = 600)
+deltasub.plot
+dev.off()
 
 
 ### Percent diff ----
